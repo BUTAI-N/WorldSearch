@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:54:28.977Z",
+  "generatedAt": "2026-07-05T19:40:41.346Z",
   "count": 15,
   "worlds": [
     {
@@ -16,8 +16,7 @@
         "label": "関連なし"
       },
       "locations": [
-        "部屋",
-        "住居"
+        "部屋/住居"
       ],
       "description": "アバターの確認に最適 / 改変の確認",
       "available": true
@@ -74,8 +73,7 @@
         "label": "関連なし"
       },
       "locations": [
-        "神社",
-        "和風"
+        "神社/和風"
       ],
       "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
       "available": true
@@ -151,8 +149,7 @@
         "label": "関連なし"
       },
       "locations": [
-        "神社",
-        "和風"
+        "神社/和風"
       ],
       "description": "ドラマチックな場所\nHarimさんのワールド全般おすすめ",
       "available": true
@@ -171,8 +168,7 @@
         "label": "関連なし"
       },
       "locations": [
-        "オフィス",
-        "事務所"
+        "オフィス/事務所"
       ],
       "description": "オフィス / 会社 / 会議",
       "available": true
@@ -287,8 +283,7 @@
         "label": "祭り/花火"
       },
       "locations": [
-        "神社",
-        "和風"
+        "神社/和風"
       ],
       "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\n夏にはいい感じの花火と雰囲気。ブルームとレベル補正要調整の事",
       "available": true
