@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BCC VRChatワールド検索</title>
+<meta name="description" content="季節・明るさ・行事イベント・ロケーションでVRChatワールドを検索できるリストです。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>BCC VRChatワールド検索<a class="join-link" href="https://bit.ly/bgc-bvp-20260630" target="_blank" rel="noopener">BCCに加入する</a></h1>
+  <p class="subtitle">条件を指定してVRChatワールドを探せます</p>
+</header>
+
+<main>
+  <section class="controls" aria-label="検索条件">
+    <div class="control-row">
+      <input type="search" id="keyword" placeholder="キーワード検索（ワールド名・説明・タグ）" autocomplete="off">
+      <button id="clear-btn" type="button">条件をクリア</button>
+    </div>
+
+    <div class="filter-group"><span class="filter-label">季節</span><div id="f-season" class="chips"></div></div>
+    <div class="filter-group"><span class="filter-label">明るさ</span><div id="f-brightness" class="chips"></div></div>
+    <div class="filter-group"><span class="filter-label">行事イベント</span><div id="f-event" class="chips"></div></div>
+    <div class="filter-group">
+      <span class="filter-label">ロケーション <button id="loc-mode" class="mode-toggle" type="button" title="複数選択時の条件">OR</button></span>
+      <div id="f-location" class="chips"></div>
+    </div>
+
+    <div class="control-row userid-row">
+      <label for="user-id" class="userid-label">VRChat User ID（invite用）</label>
+      <input type="text" id="user-id" placeholder="usr_... または自分のプロフィールページのURLを貼り付け" autocomplete="off">
+      <span class="userid-help">「ワールドページを開く」で自分がオーナーのinviteインスタンス（JP）を作るために使用します。このブラウザ内にのみ保存されます。</span>
+    </div>
+
+    <div class="control-row display-row">
+      <span id="hit-count" class="hit-count"></span>
+      <label>並び順
+        <select id="sort">
+          <option value="default">登録順</option>
+          <option value="name">名前順</option>
+          <option value="season">季節順</option>
+          <option value="event">イベント月順</option>
+        </select>
+      </label>
+      <label>列数 <input type="range" id="cols" min="1" max="6" step="1"> <span id="cols-value"></span></label>
+      <label><input type="checkbox" id="show-desc"> 説明を表示</label>
+    </div>
+  </section>
+
+  <section id="grid" class="grid" aria-label="検索結果"></section>
+  <p id="empty" class="empty" hidden>条件に一致するワールドがありません</p>
+</main>
+
+<footer class="site-footer">
+  <span id="updated-at"></span>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

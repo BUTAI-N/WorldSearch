@@ -1,0 +1,145 @@
+/* BCC VRChatワールド検索 */
+:root {
+  --bg: #14161d;
+  --panel: #1d212b;
+  --card: #21262f;
+  --border: #323847;
+  --text: #e8eaf0;
+  --text-dim: #9aa3b5;
+  --accent: #4fc3f7;
+  --accent-dark: #2196c9;
+  --chip-active: #2b5f7d;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", Meiryo, sans-serif;
+  line-height: 1.6;
+}
+main { max-width: 1400px; margin: 0 auto; padding: 0 16px 48px; }
+
+/* ヘッダー */
+.site-header { text-align: center; padding: 24px 16px 8px; }
+.site-header h1 {
+  display: inline-block; position: relative;
+  margin: 0 0 4px; font-size: 1.6rem;
+}
+.subtitle { margin: 0; color: var(--text-dim); font-size: 0.9rem; }
+.join-link {
+  position: absolute; left: 100%; top: 50%;
+  transform: translateY(-50%); margin-left: 20px;
+  font-size: 0.9rem; font-weight: normal; white-space: nowrap;
+  color: var(--text-dim); text-decoration: none;
+  border: 1px solid var(--border);
+  padding: 6px 16px; border-radius: 999px;
+}
+.join-link:hover { color: var(--accent); border-color: var(--accent); }
+@media (max-width: 640px) {
+  .join-link {
+    position: static; transform: none; margin-left: 12px;
+    font-size: 0.75rem; padding: 3px 10px; vertical-align: middle;
+  }
+}
+
+/* 検索パネル */
+.controls {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 12px; padding: 16px; margin: 16px 0;
+}
+.control-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+#keyword {
+  flex: 1; min-width: 200px; padding: 8px 12px;
+  background: var(--bg); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px; font-size: 0.95rem;
+}
+#keyword:focus { outline: none; border-color: var(--accent); }
+#clear-btn {
+  padding: 8px 14px; background: transparent; color: var(--text-dim);
+  border: 1px solid var(--border); border-radius: 8px; cursor: pointer; font-size: 0.85rem;
+}
+#clear-btn:hover { color: var(--text); border-color: var(--text-dim); }
+
+.filter-group { display: flex; gap: 10px; align-items: baseline; margin-bottom: 10px; }
+.filter-label { flex-shrink: 0; width: 7.5em; color: var(--text-dim); font-size: 0.85rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  padding: 4px 12px; background: var(--bg); color: var(--text);
+  border: 1px solid var(--border); border-radius: 999px;
+  cursor: pointer; font-size: 0.85rem; transition: all .15s;
+}
+.chip:hover { border-color: var(--accent); }
+.chip.active { background: var(--chip-active); border-color: var(--accent); color: #fff; }
+.mode-toggle {
+  padding: 1px 8px; background: var(--bg); color: var(--accent);
+  border: 1px solid var(--border); border-radius: 6px;
+  cursor: pointer; font-size: 0.75rem; font-weight: bold;
+}
+.mode-toggle:hover { border-color: var(--accent); }
+
+.userid-row { margin-top: 14px; border-top: 1px solid var(--border); padding-top: 12px; margin-bottom: 0; }
+.userid-label { flex-shrink: 0; color: var(--text-dim); font-size: 0.85rem; }
+#user-id {
+  flex: 1; min-width: 220px; padding: 6px 12px;
+  background: var(--bg); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px; font-size: 0.85rem;
+}
+#user-id:focus { outline: none; border-color: var(--accent); }
+.userid-help { width: 100%; font-size: 0.72rem; color: var(--text-dim); }
+.open-btn.need-id { background: #3a4050; color: #b8bfce; }
+.open-btn.need-id:hover { background: #454c5e; }
+
+.display-row { margin-bottom: 0; margin-top: 14px; border-top: 1px solid var(--border); padding-top: 12px; }
+.display-row label { display: flex; align-items: center; gap: 6px; color: var(--text-dim); font-size: 0.85rem; }
+.display-row select {
+  background: var(--bg); color: var(--text);
+  border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px;
+}
+.hit-count { margin-right: auto; font-size: 0.9rem; color: var(--accent); }
+
+/* カードグリッド */
+.grid { display: grid; grid-template-columns: repeat(var(--cols, 4), 1fr); gap: 16px; }
+.card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px; overflow: hidden;
+  display: flex; flex-direction: column;
+  transition: transform .15s, border-color .15s;
+}
+.card:hover { transform: translateY(-2px); border-color: var(--accent-dark); }
+.card.unavailable { opacity: 0.55; }
+.thumb { display: block; position: relative; aspect-ratio: 4 / 3; background: #10131a; }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.badge {
+  position: absolute; top: 8px; left: 8px;
+  background: rgba(180, 60, 60, .9); color: #fff;
+  font-size: 0.7rem; padding: 2px 8px; border-radius: 4px;
+}
+.card-body { padding: 12px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.world-name { margin: 0; font-size: 1rem; line-height: 1.4; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { font-size: 0.7rem; padding: 1px 8px; border-radius: 999px; border: 1px solid transparent; }
+.t-season { background: #2d4a33; color: #a8e6b0; }
+.t-bright { background: #4a4226; color: #ffe08a; }
+.t-event { background: #4a2d42; color: #f0a8d8; }
+.t-loc { background: #263c4a; color: #8fd3f0; }
+.desc { margin: 0; font-size: 0.82rem; color: var(--text-dim); white-space: pre-line; }
+.open-btn {
+  margin-top: auto; text-align: center; padding: 8px;
+  background: var(--accent-dark); color: #fff;
+  border-radius: 8px; text-decoration: none; font-size: 0.85rem;
+}
+.open-btn:hover { background: var(--accent); }
+
+.empty { text-align: center; color: var(--text-dim); padding: 48px 0; }
+.site-footer { text-align: center; color: var(--text-dim); font-size: 0.75rem; padding: 16px; }
+
+/* レスポンシブ（列数設定より優先） */
+@media (max-width: 900px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+  .filter-label { width: 100%; }
+  .filter-group { flex-wrap: wrap; }
+}
+@media (max-width: 520px) {
+  .grid { grid-template-columns: 1fr; }
+}
