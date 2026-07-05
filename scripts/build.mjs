@@ -152,7 +152,7 @@ async function main() {
       season: get(cols.season),
       brightness: get(cols.brightness),
       event: parseEvent(get(cols.event)),
-      locations: get(cols.location).split(/[/、,]/).map((t) => t.trim()).filter(Boolean),
+      locations: get(cols.location).split(/[、,]/).map((t) => t.trim()).filter(Boolean),
       description: get(cols.description),
       available: !!entry.ok,
     });
