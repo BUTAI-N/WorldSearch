@@ -290,6 +290,56 @@
       "authorName": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "fetchedAt": 1783473785110
+    },
+    "wrld_078ecc00-f193-43e0-80ec-139962d851bd": {
+      "ok": true,
+      "name": "Roshidere Classroom - VRC Light Volumes Supported",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_1ef21fe5-4b5e-42cf-a52b-fe294b75f837/3/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_1ef21fe5-4b5e-42cf-a52b-fe294b75f837/3/file",
+      "releaseStatus": "public",
+      "authorName": "HeyItsAnjello",
+      "authorId": "usr_a179c393-bea0-4aef-83a8-52880b9d37a8",
+      "fetchedAt": 1783476598566
+    },
+    "wrld_2d51644c-179e-42ab-83d3-8882752296c6": {
+      "ok": true,
+      "name": "EVERYTHING",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_ec480797-20c9-4f1c-9da7-0600bd18e788/2/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ec480797-20c9-4f1c-9da7-0600bd18e788/2/file",
+      "releaseStatus": "public",
+      "authorName": "별 보기",
+      "authorId": "usr_d1cc28d9-da61-4404-8d05-7a89aa3fac78",
+      "fetchedAt": 1783476599617
+    },
+    "wrld_3de51725-d50e-4b13-96b6-75adf895dd62": {
+      "ok": true,
+      "name": "Ariana",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_0e11bd7f-c093-4ac6-9669-1a91716ad1e4/3/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_0e11bd7f-c093-4ac6-9669-1a91716ad1e4/3/file",
+      "releaseStatus": "public",
+      "authorName": "Lyn비",
+      "authorId": "usr_8cb72eca-a3fb-45a8-bc51-368a19f12695",
+      "fetchedAt": 1783476600700
+    },
+    "wrld_240299fa-7378-463b-a96b-74413aa20cb6": {
+      "ok": true,
+      "name": "追憶の原風景",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_83ab12a5-8f67-45c3-b269-e2875253adf3/2/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_83ab12a5-8f67-45c3-b269-e2875253adf3/2/file",
+      "releaseStatus": "public",
+      "authorName": "mackerel_misogi",
+      "authorId": "usr_54638756-aed6-4045-b9a9-1f7b6471ef11",
+      "fetchedAt": 1783476601747
+    },
+    "wrld_b5ed19cb-cf04-481c-833a-9833138ff668": {
+      "ok": true,
+      "name": "VR宇宙博物館コスモリア Cosmoria［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/file",
+      "releaseStatus": "public",
+      "authorName": "vsp_vrc",
+      "authorId": "usr_0693607b-5305-4540-93dd-60fd726d800a",
+      "fetchedAt": 1783476602815
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T01:23:05.111Z",
-  "count": 29,
+  "generatedAt": "2026-07-08T02:10:02.815Z",
+  "count": 34,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -39,7 +39,7 @@
       "locations": [
         "公園"
       ],
-      "description": "画面全体がピンクにできる。桜",
+      "description": "画面全体がピンクにできる。\r\n桜。",
       "available": true
     },
     {
@@ -77,7 +77,8 @@
         "label": "関連なし"
       },
       "locations": [
-        "神社/和風"
+        "神社/和風",
+        "田舎（日本）"
       ],
       "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\r\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
       "available": true
@@ -153,8 +154,8 @@
       "season": "秋",
       "brightness": "昼",
       "event": {
-        "month": 0,
-        "label": "関連なし"
+        "month": 4,
+        "label": "お花見"
       },
       "locations": [
         "神社/和風",
@@ -214,8 +215,8 @@
       "season": "季節性なし",
       "brightness": "夕",
       "event": {
-        "month": 0,
-        "label": "関連なし"
+        "month": 6,
+        "label": "梅雨"
       },
       "locations": [
         "都市"
@@ -255,8 +256,8 @@
       "season": "季節性なし",
       "brightness": "暗",
       "event": {
-        "month": 0,
-        "label": "関連なし"
+        "month": 6,
+        "label": "梅雨"
       },
       "locations": [
         "都市"
@@ -397,11 +398,12 @@
       "season": "季節により変化",
       "brightness": "季節により変化",
       "event": {
-        "month": 0,
-        "label": "関連なし"
+        "month": 1,
+        "label": "正月"
       },
       "locations": [
-        "神社/和風"
+        "神社/和風",
+        "田舎（日本）"
       ],
       "description": "現実の季節と連動して、季節が変化する。\r\n非常に綺麗な日本の神社",
       "available": true
@@ -589,6 +591,108 @@
         "田舎（日本）"
       ],
       "description": "環境は暗いけどアバターは明るく映る。\r\n一本道の街道。光が綺麗で映える。",
+      "available": true
+    },
+    {
+      "id": "wrld_078ecc00-f193-43e0-80ec-139962d851bd",
+      "name": "Roshidere Classroom - VRC Light Volumes Supported",
+      "url": "https://vrchat.com/home/world/wrld_078ecc00-f193-43e0-80ec-139962d851bd",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_1ef21fe5-4b5e-42cf-a52b-fe294b75f837/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_1ef21fe5-4b5e-42cf-a52b-fe294b75f837/3/file",
+      "author": "HeyItsAnjello",
+      "authorId": "usr_a179c393-bea0-4aef-83a8-52880b9d37a8",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "学校"
+      ],
+      "description": "アニメ調の教室",
+      "available": true
+    },
+    {
+      "id": "wrld_2d51644c-179e-42ab-83d3-8882752296c6",
+      "name": "EVERYTHING",
+      "url": "https://vrchat.com/home/world/wrld_2d51644c-179e-42ab-83d3-8882752296c6",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_ec480797-20c9-4f1c-9da7-0600bd18e788/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_ec480797-20c9-4f1c-9da7-0600bd18e788/2/file",
+      "author": "별 보기",
+      "authorId": "usr_d1cc28d9-da61-4404-8d05-7a89aa3fac78",
+      "season": "夏",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "荒廃した世界",
+        "海"
+      ],
+      "description": "ローコントラストなエモい風景",
+      "available": true
+    },
+    {
+      "id": "wrld_3de51725-d50e-4b13-96b6-75adf895dd62",
+      "name": "Ariana",
+      "url": "https://vrchat.com/home/world/wrld_3de51725-d50e-4b13-96b6-75adf895dd62",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_0e11bd7f-c093-4ac6-9669-1a91716ad1e4/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_0e11bd7f-c093-4ac6-9669-1a91716ad1e4/3/file",
+      "author": "Lyn비",
+      "authorId": "usr_8cb72eca-a3fb-45a8-bc51-368a19f12695",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海"
+      ],
+      "description": "画面が真っ青になる。真夏のエモさ。",
+      "available": true
+    },
+    {
+      "id": "wrld_240299fa-7378-463b-a96b-74413aa20cb6",
+      "name": "追憶の原風景",
+      "url": "https://vrchat.com/home/world/wrld_240299fa-7378-463b-a96b-74413aa20cb6",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_83ab12a5-8f67-45c3-b269-e2875253adf3/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_83ab12a5-8f67-45c3-b269-e2875253adf3/2/file",
+      "author": "mackerel_misogi",
+      "authorId": "usr_54638756-aed6-4045-b9a9-1f7b6471ef11",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海",
+        "田舎（日本）"
+      ],
+      "description": "田舎の夏。",
+      "available": true
+    },
+    {
+      "id": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+      "name": "VR宇宙博物館コスモリア Cosmoria［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］",
+      "url": "https://vrchat.com/home/world/wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/file",
+      "author": "vsp_vrc",
+      "authorId": "usr_0693607b-5305-4540-93dd-60fd726d800a",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "宇宙"
+      ],
+      "description": "宇宙関連の博物館。\r\n回る配信とか試してみる価値あり？",
       "available": true
     }
   ]
