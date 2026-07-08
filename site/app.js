@@ -15,7 +15,7 @@
 
   // ---------- 状態 ----------
   const state = { q: '', season: null, brightness: null, event: null, locs: new Set(), locMode: 'OR' };
-  const settings = Object.assign({ cols: 4, showDesc: true, sort: 'default', userId: '' }, loadSettings());
+  const settings = Object.assign({ cols: 4, showDesc: true, showAuthor: true, sort: 'default', userId: '' }, loadSettings());
 
   function loadSettings() {
     try { return JSON.parse(localStorage.getItem('bccvws:settings')) || {}; } catch { return {}; }
@@ -143,6 +143,11 @@
     const openBtn = uid
       ? `<a class="open-btn" href="${esc(inviteUrl(w, uid))}" target="_blank" rel="noopener">ワールドページを開く</a>`
       : `<a class="open-btn need-id" href="#" title="上のUser ID欄に自分のusr_...を入力すると使えます">ワールドページを開く</a>`;
+    const authorHtml = settings.showAuthor && w.author
+      ? `<p class="author">作者: ${w.authorId
+          ? `<a href="https://vrchat.com/home/user/${esc(w.authorId)}" target="_blank" rel="noopener">${esc(w.author)}</a>`
+          : esc(w.author)}</p>`
+      : '';
     const tags = [
       w.season && `<span class="tag t-season">${esc(w.season)}</span>`,
       w.brightness && `<span class="tag t-bright">${esc(w.brightness)}</span>`,
@@ -156,6 +161,7 @@
       </a>
       <div class="card-body">
         <h3 class="world-name">${esc(w.name)}</h3>
+        ${authorHtml}
         <div class="tags">${tags}</div>
         ${settings.showDesc && w.description ? `<p class="desc">${esc(w.description)}</p>` : ''}
         ${openBtn}
@@ -193,6 +199,7 @@
   $('#sort').addEventListener('change', (e) => { settings.sort = e.target.value; saveSettings(); update(); });
   $('#cols').addEventListener('input', (e) => { settings.cols = Number(e.target.value); saveSettings(); update(); });
   $('#show-desc').addEventListener('change', (e) => { settings.showDesc = e.target.checked; saveSettings(); update(); });
+  $('#show-author').addEventListener('change', (e) => { settings.showAuthor = e.target.checked; saveSettings(); update(); });
   $('#user-id').addEventListener('input', (e) => { settings.userId = e.target.value.trim(); saveSettings(); update(); });
   $('#grid').addEventListener('click', (e) => {
     const btn = e.target.closest('.need-id');
@@ -206,6 +213,7 @@
   $('#sort').value = settings.sort;
   $('#cols').value = settings.cols;
   $('#show-desc').checked = settings.showDesc;
+  $('#show-author').checked = settings.showAuthor;
   $('#user-id').value = settings.userId;
   if (DATA.generatedAt) {
     const d = new Date(DATA.generatedAt);
