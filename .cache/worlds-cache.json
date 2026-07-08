@@ -8,7 +8,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/12/file",
       "releaseStatus": "public",
       "authorName": "Ziggor",
-      "fetchedAt": 1783277654345
+      "authorId": "usr_d37acd76-341a-46af-9b0e-d5b0ffa2181d",
+      "fetchedAt": 1783473754001
     },
     "wrld_84f03063-6013-43f6-a827-995a512a617e": {
       "ok": true,
@@ -17,7 +18,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_88a93db1-2bd3-4d54-aaa2-b98ea1106ee8/11/file",
       "releaseStatus": "public",
       "authorName": "Leiria_vrc",
-      "fetchedAt": 1783277655386
+      "authorId": "usr_6a1ac5f1-0511-4e2a-a7e1-895a065b7349",
+      "fetchedAt": 1783473755103
     },
     "wrld_38ee1c16-3109-4ec2-a883-9338c9654e01": {
       "ok": true,
@@ -26,7 +28,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b0294905-82b5-45b7-85b3-d842dfe50191/3/file",
       "releaseStatus": "public",
       "authorName": "おふとん（Ofuton）",
-      "fetchedAt": 1783277656498
+      "authorId": "usr_1eee67ad-66b6-4f9d-bbbb-b7e8e559c719",
+      "fetchedAt": 1783473756241
     },
     "wrld_d048292b-42ad-4204-9372-0103d9a46f71": {
       "ok": true,
@@ -35,7 +38,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_862a00d2-1f1e-4492-9c46-5f0a7be67ec0/6/file",
       "releaseStatus": "public",
       "authorName": "Fins",
-      "fetchedAt": 1783277657536
+      "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
+      "fetchedAt": 1783473757344
     },
     "wrld_0340e2e5-e83e-49af-b7e8-942ebe45c7fb": {
       "ok": true,
@@ -44,7 +48,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_03ceb9cc-38e7-4e70-9a59-9f9367201125/1/file",
       "releaseStatus": "public",
       "authorName": "MAOO",
-      "fetchedAt": 1783277658575
+      "authorId": "usr_4cbdf5a8-2474-4a63-b4b7-a3bf4d5b1416",
+      "fetchedAt": 1783473758451
     },
     "wrld_f7a383bc-c925-4696-85c2-2996c0a40112": {
       "ok": true,
@@ -53,7 +58,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_68759b34-ebcf-4745-a9d4-81f1e34ebffe/5/file",
       "releaseStatus": "public",
       "authorName": "Fins",
-      "fetchedAt": 1783277659615
+      "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
+      "fetchedAt": 1783473759561
     },
     "wrld_7ee3b148-348d-487e-853e-9babcd133a35": {
       "ok": true,
@@ -62,7 +68,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ae385941-f87f-4a1e-bd28-663d123fd541/3/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783277660654
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473760686
     },
     "wrld_8545e31b-e5f9-4227-b3ad-f985ef496adf": {
       "ok": true,
@@ -71,7 +78,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_838fa83b-c5e2-4532-9993-56bbea7a1ded/6/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783277661693
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473761800
     },
     "wrld_48215488-6465-476c-bde0-f88f4e500cf7": {
       "ok": true,
@@ -80,7 +88,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8091b053-e15c-4b2b-bc8c-3f6978ef3d66/3/file",
       "releaseStatus": "public",
       "authorName": "Tsumikiseisaku",
-      "fetchedAt": 1783277662735
+      "authorId": "usr_514d62d0-d43b-44d3-9a35-5aad2b138990",
+      "fetchedAt": 1783473762911
     },
     "wrld_0f3e9e91-6295-4303-a297-8c518c069820": {
       "ok": true,
@@ -89,7 +98,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_79cad2d8-a0ad-42a8-86d7-c8d2a04560b9/1/file",
       "releaseStatus": "public",
       "authorName": "IENOMAWARI",
-      "fetchedAt": 1783277663774
+      "authorId": "usr_64070724-a5c6-48c5-b16e-5e25502ce623",
+      "fetchedAt": 1783473764033
     },
     "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262": {
       "ok": true,
@@ -98,7 +108,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_4b1724ff-2ae1-482a-9885-f5ad4cceb723/1/file",
       "releaseStatus": "public",
       "authorName": "HANI․",
-      "fetchedAt": 1783277664816
+      "authorId": "usr_a69fcbe9-b5c4-4779-ab05-5f5a476a194b",
+      "fetchedAt": 1783473765141
     },
     "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2": {
       "ok": true,
@@ -107,7 +118,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c6b519ec-141a-4edb-83f3-2fc3dc39c2e1/5/file",
       "releaseStatus": "public",
       "authorName": "Artistoid",
-      "fetchedAt": 1783277665856
+      "authorId": "usr_6a926e23-ce9c-468d-8d78-98223bd574ce",
+      "fetchedAt": 1783473766248
     },
     "wrld_20b24354-d67f-4622-9415-e1d14af60639": {
       "ok": true,
@@ -116,7 +128,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_73434481-ef3a-4c2a-84a8-dfa3f97fdd29/1/file",
       "releaseStatus": "public",
       "authorName": "オーゼンOzen",
-      "fetchedAt": 1783277666894
+      "authorId": "usr_b519ebb0-aa6a-44a4-9af4-0ffe46bb99cb",
+      "fetchedAt": 1783473767357
     },
     "wrld_7112248e-23e5-48d4-a63b-7cc248189422": {
       "ok": true,
@@ -125,7 +138,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_baa85a7e-3e5a-4ccc-997e-9c25d4279ac4/2/file",
       "releaseStatus": "public",
       "authorName": "Charlotte（シャル）",
-      "fetchedAt": 1783277667932
+      "authorId": "usr_d364cf3d-3e6b-4d51-adfd-9d66ce5bd6fa",
+      "fetchedAt": 1783473768493
     },
     "wrld_ee1d8944-9e3f-41bb-bf8c-aa0009ef2a08": {
       "ok": true,
@@ -134,7 +148,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_bf8852c2-ddd6-4eec-8933-d3bd290ea2da/2/file",
       "releaseStatus": "public",
       "authorName": "ঌ٭がみてゃ٭໒",
-      "fetchedAt": 1783277668976
+      "authorId": "usr_86f4363c-84e4-45fe-9c4f-97356aafda96",
+      "fetchedAt": 1783473769595
     },
     "wrld_fab25276-98ce-4320-84ca-1362cfb64abf": {
       "ok": true,
@@ -143,7 +158,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_00d4d252-6da0-4640-8162-45b9c7ac7f33/1/file",
       "releaseStatus": "public",
       "authorName": "Apathy",
-      "fetchedAt": 1783473605986
+      "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
+      "fetchedAt": 1783473770694
     },
     "wrld_1d9bc157-860f-4775-9da7-f99b2c1eb886": {
       "ok": true,
@@ -152,7 +168,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_afabf39a-2b6a-495b-9585-855df58245b7/2/file",
       "releaseStatus": "public",
       "authorName": "Apathy",
-      "fetchedAt": 1783473607053
+      "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
+      "fetchedAt": 1783473771798
     },
     "wrld_0f2e25a6-1c09-4f25-9fdb-2c8cd009edfd": {
       "ok": true,
@@ -161,7 +178,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_5061ff00-882b-4910-8789-3d3080426f12/2/file",
       "releaseStatus": "public",
       "authorName": "Apathy",
-      "fetchedAt": 1783473608074
+      "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
+      "fetchedAt": 1783473772922
     },
     "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5": {
       "ok": true,
@@ -170,7 +188,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_24e8978f-a3b7-4ee4-bde7-3a8197e6b600/3/file",
       "releaseStatus": "public",
       "authorName": "RootGentle",
-      "fetchedAt": 1783473609100
+      "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
+      "fetchedAt": 1783473774022
     },
     "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300": {
       "ok": true,
@@ -179,7 +198,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/104/file",
       "releaseStatus": "public",
       "authorName": "RootGentle",
-      "fetchedAt": 1783473610139
+      "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
+      "fetchedAt": 1783473775138
     },
     "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9": {
       "ok": true,
@@ -188,7 +208,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b2516c5b-e0a0-4df6-946e-7f009976eedd/3/file",
       "releaseStatus": "public",
       "authorName": "しーの／T_Shiino",
-      "fetchedAt": 1783473611191
+      "authorId": "usr_432d05bf-05ca-4685-9332-87fd7b054e63",
+      "fetchedAt": 1783473776278
     },
     "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce": {
       "ok": true,
@@ -197,7 +218,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_96c65134-9879-491d-b2fb-e42c7d69c082/3/file",
       "releaseStatus": "public",
       "authorName": "しーの／T_Shiino",
-      "fetchedAt": 1783473612215
+      "authorId": "usr_432d05bf-05ca-4685-9332-87fd7b054e63",
+      "fetchedAt": 1783473777387
     },
     "wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41": {
       "ok": true,
@@ -206,7 +228,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6792123a-b5b8-4910-ae52-29878473878a/6/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473613234
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473778494
     },
     "wrld_6b0f8171-e617-4e9a-8c4f-931d4a7bcc5f": {
       "ok": true,
@@ -215,7 +238,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_be1a0dc9-cce0-4528-9dc2-7d2839c699d2/8/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473614257
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473779606
     },
     "wrld_929c02a8-780f-493c-8a68-72125b7b6b53": {
       "ok": true,
@@ -224,7 +248,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6abf80bb-581b-4dd4-9287-8a8cc2e6962a/2/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473615287
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473780739
     },
     "wrld_c3cf550b-b987-45ef-8b96-cc61fa6c2fde": {
       "ok": true,
@@ -233,7 +258,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_1cdc5ba7-95c4-4379-a3c4-816d579d34e1/5/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473616305
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473781844
     },
     "wrld_d28c9785-f02c-4ced-937a-80e320c10c92": {
       "ok": true,
@@ -242,7 +268,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_5c091cd3-e28f-4999-ad47-7400e8556bae/19/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473617325
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473782951
     },
     "wrld_1c0d1975-d3a9-4c12-8187-6f0df3e2b41f": {
       "ok": true,
@@ -251,7 +278,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_bf38d498-046f-40e0-bf7a-7e18ce734e43/6/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473618344
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473784051
     },
     "wrld_ddc945c1-aae9-412f-8915-f621651f5852": {
       "ok": true,
@@ -260,7 +288,8 @@
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_15784fd2-6e37-4b93-968d-2458dfa9415c/11/file",
       "releaseStatus": "public",
       "authorName": "_Harim",
-      "fetchedAt": 1783473619376
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "fetchedAt": 1783473785110
     }
   }
 }
