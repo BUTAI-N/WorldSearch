@@ -92,6 +92,7 @@ async function fetchWorld(worldId) {
     imageUrl: w.imageUrl,
     releaseStatus: w.releaseStatus,
     authorName: w.authorName,
+    authorId: w.authorId,
   };
 }
 
@@ -127,7 +128,7 @@ async function main() {
 
     // キャッシュ確認（TTL内ならAPIを呼ばない）
     let entry = cache.worlds[worldId];
-    const stale = !entry || !entry.fetchedAt || Date.now() - entry.fetchedAt > CACHE_TTL_MS;
+    const stale = !entry || !entry.fetchedAt || Date.now() - entry.fetchedAt > CACHE_TTL_MS || (entry.ok && !entry.authorId);
     if (stale) {
       if (fetched > 0) await sleep(REQUEST_INTERVAL_MS);
       try {
@@ -149,6 +150,7 @@ async function main() {
       thumb: (entry.ok && entry.thumbnailImageUrl) || '',
       image: (entry.ok && entry.imageUrl) || '',
       author: (entry.ok && entry.authorName) || '',
+      authorId: (entry.ok && entry.authorId) || '',
       season: get(cols.season),
       brightness: get(cols.brightness),
       event: parseEvent(get(cols.event)),
