@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T12:16:23.062Z",
-  "count": 15,
+  "generatedAt": "2026-07-08T01:20:19.376Z",
+  "count": 29,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -56,7 +56,7 @@
       "locations": [
         "学校"
       ],
-      "description": "教室\n少し明るめなので、レベル補正とブルームを要調整",
+      "description": "学校の教室\r\n少し明るめなので、レベル補正とブルームを要調整",
       "available": true
     },
     {
@@ -75,7 +75,7 @@
       "locations": [
         "神社/和風"
       ],
-      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
+      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\r\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
       "available": true
     },
     {
@@ -132,7 +132,7 @@
       "locations": [
         "海"
       ],
-      "description": "画面全体が青～白にできる。海と青空\nHarimさんのワールド全般おすすめ",
+      "description": "画面全体が青～白にできる。海と青空。",
       "available": true
     },
     {
@@ -149,9 +149,10 @@
         "label": "関連なし"
       },
       "locations": [
-        "神社/和風"
+        "神社/和風",
+        "荒廃した世界"
       ],
-      "description": "ドラマチックな場所\nHarimさんのワールド全般おすすめ",
+      "description": "ドラマチックな場所。桜。",
       "available": true
     },
     {
@@ -208,7 +209,7 @@
       "locations": [
         "都市"
       ],
-      "description": "ハイコントラストでドラマチック\n画面構成が綺麗にできればTikTokで目に留まる可能性有。要調整",
+      "description": "ハイコントラストでドラマチック\r\n画面構成が綺麗にできればTikTokで目に留まる可能性有。",
       "available": true
     },
     {
@@ -228,7 +229,7 @@
         "都市",
         "駅"
       ],
-      "description": "音楽イベント/企画に向いている。場所によっては明るい",
+      "description": "音楽イベント/企画に向いている。場所によっては明るい。",
       "available": true
     },
     {
@@ -247,7 +248,7 @@
       "locations": [
         "都市"
       ],
-      "description": "暗いが背景が白いので、ドラマチックな演出が可能\n演出意図があれば効果的なワールド",
+      "description": "暗いが背景が白いので、ドラマチックな演出が可能\r\n雨の空気感がいい感じに表現されている。",
       "available": true
     },
     {
@@ -266,7 +267,7 @@
       "locations": [
         "教会"
       ],
-      "description": "暗めだが、教会で神聖な雰囲気が出せる\nレベル補正を上げたり等して画面が調整できればいい感じ",
+      "description": "暗めだが、教会で神聖な雰囲気が出せる\r\nレベル補正を上げたり等して画面が調整できればいい感じ",
       "available": true
     },
     {
@@ -285,7 +286,280 @@
       "locations": [
         "神社/和風"
       ],
-      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\n夏にはいい感じの花火と雰囲気。ブルームとレベル補正要調整の事",
+      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\r\n夏にはいい感じの花火と雰囲気。ブルームとレベル補正要調整の事",
+      "available": true
+    },
+    {
+      "id": "wrld_fab25276-98ce-4320-84ca-1362cfb64abf",
+      "name": "雲 - The Cloud We Chase ｜ ไกลแค่ไหนฝันของเรา․",
+      "url": "https://vrchat.com/home/world/wrld_fab25276-98ce-4320-84ca-1362cfb64abf",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_00d4d252-6da0-4640-8162-45b9c7ac7f33/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_00d4d252-6da0-4640-8162-45b9c7ac7f33/1/file",
+      "author": "Apathy",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "田舎（日本）"
+      ],
+      "description": "歩けるエリアは狭いけど、夏のエモい感じ。",
+      "available": true
+    },
+    {
+      "id": "wrld_1d9bc157-860f-4775-9da7-f99b2c1eb886",
+      "name": "That Cloud",
+      "url": "https://vrchat.com/home/world/wrld_1d9bc157-860f-4775-9da7-f99b2c1eb886",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_afabf39a-2b6a-495b-9585-855df58245b7/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_afabf39a-2b6a-495b-9585-855df58245b7/2/file",
+      "author": "Apathy",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "田舎（日本）"
+      ],
+      "description": "歩けるエリアは狭いのと、通路なので配信するのは難しいかも。",
+      "available": true
+    },
+    {
+      "id": "wrld_0f2e25a6-1c09-4f25-9fdb-2c8cd009edfd",
+      "name": "Rain of you",
+      "url": "https://vrchat.com/home/world/wrld_0f2e25a6-1c09-4f25-9fdb-2c8cd009edfd",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_5061ff00-882b-4910-8789-3d3080426f12/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_5061ff00-882b-4910-8789-3d3080426f12/2/file",
+      "author": "Apathy",
+      "season": "春",
+      "brightness": "朝",
+      "event": {
+        "month": 6,
+        "label": "梅雨"
+      },
+      "locations": [
+        "田舎（日本）",
+        "駅"
+      ],
+      "description": "雨の空気感がいい感じに表現されている。梅雨の感傷的な感じ。",
+      "available": true
+    },
+    {
+      "id": "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
+      "name": "SAKURA hiroba",
+      "url": "https://vrchat.com/home/world/wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_24e8978f-a3b7-4ee4-bde7-3a8197e6b600/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_24e8978f-a3b7-4ee4-bde7-3a8197e6b600/3/file",
+      "author": "RootGentle",
+      "season": "春",
+      "brightness": "昼",
+      "event": {
+        "month": 4,
+        "label": "お花見"
+      },
+      "locations": [
+        "神社/和風",
+        "田舎（日本）"
+      ],
+      "description": "明るさが動的に少しだけ変化するので、そこは注意が必要。\r\n綺麗な桜が咲いてる。",
+      "available": true
+    },
+    {
+      "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
+      "name": "Japan Shrine［summer］",
+      "url": "https://vrchat.com/home/world/wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/104/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/104/file",
+      "author": "RootGentle",
+      "season": "季節により変化",
+      "brightness": "季節により変化",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "神社/和風"
+      ],
+      "description": "現実の季節と連動して、季節が変化する。\r\n非常に綺麗な日本の神社",
+      "available": true
+    },
+    {
+      "id": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+      "name": "夏の忘れ物",
+      "url": "https://vrchat.com/home/world/wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_b2516c5b-e0a0-4df6-946e-7f009976eedd/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_b2516c5b-e0a0-4df6-946e-7f009976eedd/3/file",
+      "author": "しーの／T_Shiino",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海"
+      ],
+      "description": "辺り一面が海の場所に、ポツンと小島がある。真夏の空。\r\n青空の絵作りができる。",
+      "available": true
+    },
+    {
+      "id": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+      "name": "青天霹靂",
+      "url": "https://vrchat.com/home/world/wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_96c65134-9879-491d-b2fb-e42c7d69c082/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_96c65134-9879-491d-b2fb-e42c7d69c082/3/file",
+      "author": "しーの／T_Shiino",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海"
+      ],
+      "description": "辺り一面が海の場所に、ポツンと小島がある。\r\n真夏というより、爽やかな空。",
+      "available": true
+    },
+    {
+      "id": "wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41",
+      "name": "Grace ⁄ 恵み",
+      "url": "https://vrchat.com/home/world/wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_6792123a-b5b8-4910-ae52-29878473878a/6/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_6792123a-b5b8-4910-ae52-29878473878a/6/file",
+      "author": "_Harim",
+      "season": "春",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "森"
+      ],
+      "description": "アバターが明るく映る森。自然の癒し。",
+      "available": true
+    },
+    {
+      "id": "wrld_6b0f8171-e617-4e9a-8c4f-931d4a7bcc5f",
+      "name": "Dream˸ ⁄ 夢˸",
+      "url": "https://vrchat.com/home/world/wrld_6b0f8171-e617-4e9a-8c4f-931d4a7bcc5f",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_be1a0dc9-cce0-4528-9dc2-7d2839c699d2/8/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_be1a0dc9-cce0-4528-9dc2-7d2839c699d2/8/file",
+      "author": "_Harim",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "駅"
+      ],
+      "description": "電車の中。画面が青～白に埋まる。",
+      "available": true
+    },
+    {
+      "id": "wrld_929c02a8-780f-493c-8a68-72125b7b6b53",
+      "name": "Daydreaming ⁄ 夢想",
+      "url": "https://vrchat.com/home/world/wrld_929c02a8-780f-493c-8a68-72125b7b6b53",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_6abf80bb-581b-4dd4-9287-8a8cc2e6962a/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_6abf80bb-581b-4dd4-9287-8a8cc2e6962a/2/file",
+      "author": "_Harim",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "学校",
+        "荒廃した世界"
+      ],
+      "description": "学校の中。無難に綺麗な画面作りに適切。",
+      "available": true
+    },
+    {
+      "id": "wrld_c3cf550b-b987-45ef-8b96-cc61fa6c2fde",
+      "name": "Steps of Time ⁄ 時間の階段",
+      "url": "https://vrchat.com/home/world/wrld_c3cf550b-b987-45ef-8b96-cc61fa6c2fde",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_1cdc5ba7-95c4-4379-a3c4-816d579d34e1/5/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_1cdc5ba7-95c4-4379-a3c4-816d579d34e1/5/file",
+      "author": "_Harim",
+      "season": "夏",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "田舎（日本）",
+        "川/湖",
+        "荒廃した世界"
+      ],
+      "description": "荒廃した日本の夏。",
+      "available": true
+    },
+    {
+      "id": "wrld_d28c9785-f02c-4ced-937a-80e320c10c92",
+      "name": "Severance ⁄ 断絶",
+      "url": "https://vrchat.com/home/world/wrld_d28c9785-f02c-4ced-937a-80e320c10c92",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_5c091cd3-e28f-4999-ad47-7400e8556bae/19/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_5c091cd3-e28f-4999-ad47-7400e8556bae/19/file",
+      "author": "_Harim",
+      "season": "春",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "神社/和風",
+        "川/湖"
+      ],
+      "description": "環境は暗いけどアバターは明るく映る。\r\n鳥居と滝のある水辺",
+      "available": true
+    },
+    {
+      "id": "wrld_1c0d1975-d3a9-4c12-8187-6f0df3e2b41f",
+      "name": "Leftover Happiness ⁄ 残された幸せ",
+      "url": "https://vrchat.com/home/world/wrld_1c0d1975-d3a9-4c12-8187-6f0df3e2b41f",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_bf38d498-046f-40e0-bf7a-7e18ce734e43/6/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_bf38d498-046f-40e0-bf7a-7e18ce734e43/6/file",
+      "author": "_Harim",
+      "season": "春",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "荒廃した世界",
+        "田舎（日本）"
+      ],
+      "description": "環境は暗いけどアバターは明るく映る。\r\n川の周りに和風建築の建物。",
+      "available": true
+    },
+    {
+      "id": "wrld_ddc945c1-aae9-412f-8915-f621651f5852",
+      "name": "Way to you ⁄ 君へ至る道",
+      "url": "https://vrchat.com/home/world/wrld_ddc945c1-aae9-412f-8915-f621651f5852",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_15784fd2-6e37-4b93-968d-2458dfa9415c/11/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_15784fd2-6e37-4b93-968d-2458dfa9415c/11/file",
+      "author": "_Harim",
+      "season": "季節性なし",
+      "brightness": "昼",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "田舎（日本）"
+      ],
+      "description": "環境は暗いけどアバターは明るく映る。\r\n一本道の街道。光が綺麗で映える。",
       "available": true
     }
   ]
