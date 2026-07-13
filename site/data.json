@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T23:38:27.646Z",
-  "count": 34,
+  "generatedAt": "2026-07-13T05:38:03.568Z",
+  "count": 40,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -690,9 +690,133 @@
         "label": "関連なし"
       },
       "locations": [
-        "宇宙"
+        "宇宙",
+        "展示"
       ],
       "description": "宇宙関連の博物館。\r\n回る配信とか試してみる価値あり？",
+      "available": true
+    },
+    {
+      "id": "wrld_44897904-a665-44ad-aefa-781f47c73117",
+      "name": "Avatar Museum 14",
+      "url": "https://vrchat.com/home/world/wrld_44897904-a665-44ad-aefa-781f47c73117",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/file",
+      "author": "おおかみちゃん",
+      "authorId": "usr_b260cc63-826d-4bde-851b-84a144031945",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "展示",
+        "便利機能"
+      ],
+      "description": "アバターが展示されています。試着も可能です。\r\nVRChatをはじめたらまずはここに行きましょう。",
+      "available": true
+    },
+    {
+      "id": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
+      "name": "The Avatar Studio ｜ Avatown",
+      "url": "https://vrchat.com/home/world/wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_330cfc1f-1439-4195-85ce-edc819e7c24f/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_330cfc1f-1439-4195-85ce-edc819e7c24f/1/file",
+      "author": "MetaCreatorsTYO",
+      "authorId": "usr_c4929634-1f22-48dc-975e-3a8e70255005",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "便利機能"
+      ],
+      "description": "アバターの三面図を作成可能",
+      "available": true
+    },
+    {
+      "id": "wrld_100a0fb3-1e66-4cd8-b0cb-47353f10de88",
+      "name": "Just 三面図 ／ Just sanmenzu ［Quest対応］",
+      "url": "https://vrchat.com/home/world/wrld_100a0fb3-1e66-4cd8-b0cb-47353f10de88",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_76c75bc5-39b9-4db2-998f-965c7833ba27/4/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_76c75bc5-39b9-4db2-998f-965c7833ba27/4/file",
+      "author": "bd_",
+      "authorId": "usr_42456991-8f37-4782-8f65-a6ff65a38995",
+      "season": "季節性なし",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "便利機能"
+      ],
+      "description": "アバターの三面図を作成可能",
+      "available": true
+    },
+    {
+      "id": "wrld_c2d1f6d4-956b-42b7-99a6-57310b3badc3",
+      "name": "碧蓝空想（湛望角站）",
+      "url": "https://vrchat.com/home/world/wrld_c2d1f6d4-956b-42b7-99a6-57310b3badc3",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_7152047d-7742-4a36-893a-143093630b1a/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_7152047d-7742-4a36-893a-143093630b1a/2/file",
+      "author": "元气克星花阳",
+      "authorId": "usr_16f31e4d-519a-4e68-91ad-d7ded4656348",
+      "season": "夏",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "駅",
+        "海"
+      ],
+      "description": "綺麗な波打つ海の上にある駅。\r\n空中を魚が泳いでる。電車、スイカ、木々などがある。",
+      "available": true
+    },
+    {
+      "id": "wrld_95d2a07b-56bb-4cad-912a-6562e4e621b0",
+      "name": "Club Crash Site",
+      "url": "https://vrchat.com/home/world/wrld_95d2a07b-56bb-4cad-912a-6562e4e621b0",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_3039c1bf-e438-4afa-bfb9-2ec046961891/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_3039c1bf-e438-4afa-bfb9-2ec046961891/2/file",
+      "author": "LumenNox",
+      "authorId": "usr_ad5862a5-6453-425c-8943-9b6d9e904d6d",
+      "season": "季節性なし",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ライブステージ"
+      ],
+      "description": "【注意】アバターの明るさが変更できないと画面が真っ暗になります。\r\nちゃんと画面作りができれば目に留まる可能性があります。",
+      "available": true
+    },
+    {
+      "id": "wrld_8a93419b-4cef-42d8-9e97-b07c409a5074",
+      "name": "THE FIRST TAKE",
+      "url": "https://vrchat.com/home/world/wrld_8a93419b-4cef-42d8-9e97-b07c409a5074",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_2a0b9b98-f4e4-4d94-8230-086c3b1af012/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_2a0b9b98-f4e4-4d94-8230-086c3b1af012/3/file",
+      "author": "海野ちくわ",
+      "authorId": "usr_45ad6256-25a9-470f-9ce5-b58537c0b887",
+      "season": "季節性なし",
+      "brightness": "ライト操作 可",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ライブステージ",
+        "部屋/住居"
+      ],
+      "description": "THE FIRST TAKE風のワールド\r\n歌配信やショート動画に向いてる",
       "available": true
     }
   ]

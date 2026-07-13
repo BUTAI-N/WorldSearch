@@ -340,6 +340,66 @@
       "authorName": "vsp_vrc",
       "authorId": "usr_0693607b-5305-4540-93dd-60fd726d800a",
       "fetchedAt": 1783476602815
+    },
+    "wrld_44897904-a665-44ad-aefa-781f47c73117": {
+      "ok": true,
+      "name": "Avatar Museum 14",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/file",
+      "releaseStatus": "public",
+      "authorName": "おおかみちゃん",
+      "authorId": "usr_b260cc63-826d-4bde-851b-84a144031945",
+      "fetchedAt": 1783921078261
+    },
+    "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7": {
+      "ok": true,
+      "name": "The Avatar Studio ｜ Avatown",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_330cfc1f-1439-4195-85ce-edc819e7c24f/1/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_330cfc1f-1439-4195-85ce-edc819e7c24f/1/file",
+      "releaseStatus": "public",
+      "authorName": "MetaCreatorsTYO",
+      "authorId": "usr_c4929634-1f22-48dc-975e-3a8e70255005",
+      "fetchedAt": 1783921079321
+    },
+    "wrld_100a0fb3-1e66-4cd8-b0cb-47353f10de88": {
+      "ok": true,
+      "name": "Just 三面図 ／ Just sanmenzu ［Quest対応］",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_76c75bc5-39b9-4db2-998f-965c7833ba27/4/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_76c75bc5-39b9-4db2-998f-965c7833ba27/4/file",
+      "releaseStatus": "public",
+      "authorName": "bd_",
+      "authorId": "usr_42456991-8f37-4782-8f65-a6ff65a38995",
+      "fetchedAt": 1783921080389
+    },
+    "wrld_c2d1f6d4-956b-42b7-99a6-57310b3badc3": {
+      "ok": true,
+      "name": "碧蓝空想（湛望角站）",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_7152047d-7742-4a36-893a-143093630b1a/2/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7152047d-7742-4a36-893a-143093630b1a/2/file",
+      "releaseStatus": "public",
+      "authorName": "元气克星花阳",
+      "authorId": "usr_16f31e4d-519a-4e68-91ad-d7ded4656348",
+      "fetchedAt": 1783921081444
+    },
+    "wrld_95d2a07b-56bb-4cad-912a-6562e4e621b0": {
+      "ok": true,
+      "name": "Club Crash Site",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_3039c1bf-e438-4afa-bfb9-2ec046961891/2/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_3039c1bf-e438-4afa-bfb9-2ec046961891/2/file",
+      "releaseStatus": "public",
+      "authorName": "LumenNox",
+      "authorId": "usr_ad5862a5-6453-425c-8943-9b6d9e904d6d",
+      "fetchedAt": 1783921082500
+    },
+    "wrld_8a93419b-4cef-42d8-9e97-b07c409a5074": {
+      "ok": true,
+      "name": "THE FIRST TAKE",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_2a0b9b98-f4e4-4d94-8230-086c3b1af012/3/256",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2a0b9b98-f4e4-4d94-8230-086c3b1af012/3/file",
+      "releaseStatus": "public",
+      "authorName": "海野ちくわ",
+      "authorId": "usr_45ad6256-25a9-470f-9ce5-b58537c0b887",
+      "fetchedAt": 1783921083568
     }
   }
 }
