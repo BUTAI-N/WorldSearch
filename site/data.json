@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T05:38:03.568Z",
-  "count": 40,
+  "generatedAt": "2026-07-18T04:50:43.463Z",
+  "count": 42,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -391,8 +391,8 @@
       "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
       "name": "Japan Shrine［summer］",
       "url": "https://vrchat.com/home/world/wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/104/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/104/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/105/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/105/file",
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "季節により変化",
@@ -795,7 +795,7 @@
       "locations": [
         "ライブステージ"
       ],
-      "description": "【注意】アバターの明るさが変更できないと画面が真っ暗になります。\r\nちゃんと画面作りができれば目に留まる可能性があります。",
+      "description": "【注意】アバターの明るさが変更できないと画面が真っ暗になります。\r\nアバターの明るさ調整ギミック必須：Light Limit Changer",
       "available": true
     },
     {
@@ -817,6 +817,47 @@
         "部屋/住居"
       ],
       "description": "THE FIRST TAKE風のワールド\r\n歌配信やショート動画に向いてる",
+      "available": true
+    },
+    {
+      "id": "wrld_87971444-32c7-4df5-b5fe-1a185ddacc76",
+      "name": "誰でもお気軽配信ワールド AdHoc -アドホック-",
+      "url": "https://vrchat.com/home/world/wrld_87971444-32c7-4df5-b5fe-1a185ddacc76",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_38efc806-b1cf-42cc-809b-51faba6ed409/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_38efc806-b1cf-42cc-809b-51faba6ed409/1/file",
+      "author": "AdHoc_owner",
+      "authorId": "usr_2b25378b-6e67-4fec-b251-b52393c7962a",
+      "season": "季節性なし",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "部屋/住居"
+      ],
+      "description": "配信者向けのワールドというコンセプト\r\nアバターの明るさ調整ギミック推奨：Light Limit Changer",
+      "available": true
+    },
+    {
+      "id": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
+      "name": "AQUA HEAVEN - Waterpark Pool",
+      "url": "https://vrchat.com/home/world/wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_e22836da-c6fc-4171-89fc-f3dbfa360cef/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_e22836da-c6fc-4171-89fc-f3dbfa360cef/1/file",
+      "author": "Nekoro",
+      "authorId": "usr_d4341620-5742-4b2d-92bb-8ffcc4312de7",
+      "season": "夏",
+      "brightness": "明",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海",
+        "プール"
+      ],
+      "description": "プールを青い空が映えるワールド\r\nワールドの設定をいじれる機能付き",
       "available": true
     }
   ]
