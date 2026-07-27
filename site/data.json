@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:58:12.101Z",
+  "generatedAt": "2026-07-27T08:59:56.515Z",
   "count": 42,
   "worlds": [
     {
@@ -391,8 +391,8 @@
       "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
       "name": "Japan Shrine［summer］",
       "url": "https://vrchat.com/home/world/wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/105/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/105/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/107/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/107/file",
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "季節により変化",
@@ -679,8 +679,8 @@
       "id": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
       "name": "VR宇宙博物館コスモリア Cosmoria［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］",
       "url": "https://vrchat.com/home/world/wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_5bfcdfe1-3686-4729-b2a9-53c319384589/1/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_5bfcdfe1-3686-4729-b2a9-53c319384589/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_5bfcdfe1-3686-4729-b2a9-53c319384589/3/file",
       "author": "vsp_vrc",
       "authorId": "usr_0693607b-5305-4540-93dd-60fd726d800a",
       "season": "季節性なし",
