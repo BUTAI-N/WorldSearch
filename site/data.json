@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:51:45.049Z",
+  "generatedAt": "2026-08-09T22:03:18.140Z",
   "count": 42,
   "worlds": [
     {
@@ -391,8 +391,8 @@
       "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
       "name": "Japan Shrine［summer］",
       "url": "https://vrchat.com/home/world/wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/107/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/107/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/108/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/108/file",
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "季節により変化",
@@ -821,7 +821,7 @@
     },
     {
       "id": "wrld_87971444-32c7-4df5-b5fe-1a185ddacc76",
-      "name": "誰でもお気軽配信ワールド AdHoc -アドホック-",
+      "name": "AdHoc -アドホック-",
       "url": "https://vrchat.com/home/world/wrld_87971444-32c7-4df5-b5fe-1a185ddacc76",
       "thumb": "https://api.vrchat.cloud/api/1/image/file_38efc806-b1cf-42cc-809b-51faba6ed409/1/256",
       "image": "https://api.vrchat.cloud/api/1/file/file_38efc806-b1cf-42cc-809b-51faba6ed409/1/file",
