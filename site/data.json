@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T22:40:05.186Z",
+  "generatedAt": "2026-09-13T22:51:33.253Z",
   "count": 42,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
       "name": "Avatar Testing Chamber",
       "url": "https://vrchat.com/home/world/wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/12/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/12/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/file",
       "author": "Ziggor",
       "authorId": "usr_d37acd76-341a-46af-9b0e-d5b0ffa2181d",
       "season": "季節性なし",
@@ -389,10 +389,10 @@
     },
     {
       "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-      "name": "Japan Shrine［summer］",
+      "name": "Japan Shrine［early autumn］",
       "url": "https://vrchat.com/home/world/wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/109/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/109/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/110/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_af3b84ca-d786-4c89-a792-ad848440264b/110/file",
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "季節により変化",
