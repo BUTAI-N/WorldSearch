@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+Thumbs.db
+
+# ルート直下に置いたダウンロードCSV（原本は data/worlds.csv のみ管理）
+/*.csv
+
+# ローカル開発用設定
+.claude/
+
+# 誤って置かれた別ツール群（このリポジトリ対象外・個人情報や認証情報を含むため絶対に除外）
+/BUTAI_Tools/

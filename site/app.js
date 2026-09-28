@@ -14,7 +14,7 @@
     );
 
   // ---------- 状態 ----------
-  const state = { q: '', season: null, brightness: null, event: null, locs: new Set(), locMode: 'OR' };
+  const state = { q: '', season: null, weather: null, brightness: null, event: null, locs: new Set(), locMode: 'OR' };
   const settings = Object.assign({ cols: 4, showDesc: true, showAuthor: true, sort: 'default', userId: '' }, loadSettings());
 
   function loadSettings() {
@@ -38,6 +38,8 @@
 
   const SEASON_ORDER = ['春', '夏', '秋', '冬', '季節性なし'];
   const seasons = orderByPreference(uniqInOrder(worlds.map((w) => w.season)), SEASON_ORDER);
+  const WEATHER_ORDER = ['晴れ', '曇り', '雨', '雪', '季節により変化', '天候性なし（室内等）'];
+  const weathers = orderByPreference(uniqInOrder(worlds.map((w) => w.weather)), WEATHER_ORDER);
   const brightnesses = uniqInOrder(worlds.map((w) => w.brightness));
   const events = (() => {
     const map = new Map(); // label -> month
@@ -69,6 +71,9 @@
   buildChips($('#f-season'), seasons,
     (v) => state.season === v,
     (v) => { state.season = state.season === v ? null : v; });
+  buildChips($('#f-weather'), weathers,
+    (v) => state.weather === v,
+    (v) => { state.weather = state.weather === v ? null : v; });
   buildChips($('#f-brightness'), brightnesses,
     (v) => state.brightness === v,
     (v) => { state.brightness = state.brightness === v ? null : v; });
@@ -81,13 +86,14 @@
 
   // ---------- フィルタリング ----------
   function haystack(w) {
-    return [w.name, w.description, w.season, w.brightness, w.event.label, w.author, ...w.locations]
+    return [w.name, w.description, w.season, w.weather, w.brightness, w.event.label, w.author, ...w.locations]
       .join(' ').toLowerCase();
   }
   function applyFilters() {
     const terms = state.q.toLowerCase().split(/[\s　]+/).filter(Boolean);
     return worlds.filter((w) => {
       if (state.season && w.season !== state.season) return false;
+      if (state.weather && w.weather !== state.weather) return false;
       if (state.brightness && w.brightness !== state.brightness) return false;
       if (state.event && w.event.label !== state.event) return false;
       if (state.locs.size > 0) {
@@ -105,12 +111,14 @@
 
   // ---------- ソート ----------
   const seasonRank = (s) => { const i = SEASON_ORDER.indexOf(s); return i === -1 ? 99 : i; };
+  const weatherRank = (s) => { const i = WEATHER_ORDER.indexOf(s); return i === -1 ? 99 : i; };
   const eventRank = (e) => (e.month == null || e.month === 0 ? 99 : e.month);
   function applySort(list) {
     const sorted = [...list];
     switch (settings.sort) {
       case 'name': sorted.sort((a, b) => a.name.localeCompare(b.name, 'ja') || a._i - b._i); break;
       case 'season': sorted.sort((a, b) => seasonRank(a.season) - seasonRank(b.season) || a._i - b._i); break;
+      case 'weather': sorted.sort((a, b) => weatherRank(a.weather) - weatherRank(b.weather) || a._i - b._i); break;
       case 'event': sorted.sort((a, b) => eventRank(a.event) - eventRank(b.event) || a._i - b._i); break;
       default: sorted.sort((a, b) => a._i - b._i);
     }
@@ -150,6 +158,7 @@
       : '';
     const tags = [
       w.season && `<span class="tag t-season">${esc(w.season)}</span>`,
+      w.weather && `<span class="tag t-weather">${esc(w.weather)}</span>`,
       w.brightness && `<span class="tag t-bright">${esc(w.brightness)}</span>`,
       w.event.label && w.event.label !== '関連なし' && `<span class="tag t-event">${esc(w.event.label)}</span>`,
       ...w.locations.map((l) => `<span class="tag t-loc">${esc(l)}</span>`),
@@ -170,7 +179,7 @@
   }
 
   function update() {
-    ['#f-season', '#f-brightness', '#f-event', '#f-location'].forEach((s) => $(s)._sync());
+    ['#f-season', '#f-weather', '#f-brightness', '#f-event', '#f-location'].forEach((s) => $(s)._sync());
     $('#loc-mode').textContent = state.locMode;
 
     const results = applySort(applyFilters());
@@ -188,7 +197,7 @@
   // ---------- イベントハンドラ ----------
   $('#keyword').addEventListener('input', (e) => { state.q = e.target.value; update(); });
   $('#clear-btn').addEventListener('click', () => {
-    state.q = ''; state.season = null; state.brightness = null; state.event = null; state.locs.clear();
+    state.q = ''; state.season = null; state.weather = null; state.brightness = null; state.event = null; state.locs.clear();
     $('#keyword').value = '';
     update();
   });

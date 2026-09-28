@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>BCC VRChatワールド検索</title>
-<meta name="description" content="季節・明るさ・行事イベント・ロケーションでVRChatワールドを検索できるリストです。">
+<meta name="description" content="季節・天候・明るさ・行事イベント・ロケーションでVRChatワールドを検索できるリストです。">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,6 +21,7 @@
     </div>
 
     <div class="filter-group"><span class="filter-label">季節</span><div id="f-season" class="chips"></div></div>
+    <div class="filter-group"><span class="filter-label">天候</span><div id="f-weather" class="chips"></div></div>
     <div class="filter-group"><span class="filter-label">明るさ</span><div id="f-brightness" class="chips"></div></div>
     <div class="filter-group"><span class="filter-label">行事イベント</span><div id="f-event" class="chips"></div></div>
     <div class="filter-group">
@@ -41,6 +42,7 @@
           <option value="default">登録順</option>
           <option value="name">名前順</option>
           <option value="season">季節順</option>
+          <option value="weather">天候順</option>
           <option value="event">イベント月順</option>
         </select>
       </label>

@@ -123,6 +123,7 @@ main { max-width: 1400px; margin: 0 auto; padding: 0 16px 48px; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag { font-size: 0.7rem; padding: 1px 8px; border-radius: 999px; border: 1px solid transparent; }
 .t-season { background: #2d4a33; color: #a8e6b0; }
+.t-weather { background: #1f4448; color: #90e0e8; }
 .t-bright { background: #4a4226; color: #ffe08a; }
 .t-event { background: #4a2d42; color: #f0a8d8; }
 .t-loc { background: #263c4a; color: #8fd3f0; }

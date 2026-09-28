@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T23:38:03.986Z",
-  "count": 42,
+  "generatedAt": "2026-09-28T03:23:37.895Z",
+  "count": 52,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -11,13 +11,15 @@
       "author": "Ziggor",
       "authorId": "usr_d37acd76-341a-46af-9b0e-d5b0ffa2181d",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "ライト操作 可",
       "event": {
         "month": 0,
         "label": "関連なし"
       },
       "locations": [
-        "部屋/住居"
+        "部屋/住居",
+        "便利機能"
       ],
       "description": "アバターの確認に最適 / 改変の確認",
       "available": true
@@ -31,6 +33,7 @@
       "author": "Leiria_vrc",
       "authorId": "usr_6a1ac5f1-0511-4e2a-a7e1-895a065b7349",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "ライト操作 可",
       "event": {
         "month": 4,
@@ -39,7 +42,7 @@
       "locations": [
         "公園"
       ],
-      "description": "画面全体がピンクにできる。\r\n桜。",
+      "description": "画面全体がピンクにできる。\n桜。",
       "available": true
     },
     {
@@ -51,6 +54,7 @@
       "author": "おふとん（Ofuton）",
       "authorId": "usr_1eee67ad-66b6-4f9d-bbbb-b7e8e559c719",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -59,7 +63,7 @@
       "locations": [
         "学校"
       ],
-      "description": "学校の教室\r\n少し明るめなので、レベル補正とブルームを要調整",
+      "description": "学校の教室\n少し明るめなので、レベル補正とブルームを要調整",
       "available": true
     },
     {
@@ -71,6 +75,7 @@
       "author": "Fins",
       "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -80,7 +85,7 @@
         "神社/和風",
         "田舎（日本）"
       ],
-      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\r\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
+      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\nその変わり、映える和風/神社がある。海外ターゲットに適している。",
       "available": true
     },
     {
@@ -92,6 +97,7 @@
       "author": "MAOO",
       "authorId": "usr_4cbdf5a8-2474-4a63-b4b7-a3bf4d5b1416",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -112,6 +118,7 @@
       "author": "Fins",
       "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -132,6 +139,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -152,6 +160,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "秋",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 4,
@@ -173,6 +182,7 @@
       "author": "Tsumikiseisaku",
       "authorId": "usr_514d62d0-d43b-44d3-9a35-5aad2b138990",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -193,6 +203,7 @@
       "author": "IENOMAWARI",
       "authorId": "usr_64070724-a5c6-48c5-b16e-5e25502ce623",
       "season": "秋",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -213,6 +224,7 @@
       "author": "HANI․",
       "authorId": "usr_a69fcbe9-b5c4-4779-ab05-5f5a476a194b",
       "season": "季節性なし",
+      "weather": "雨",
       "brightness": "夕",
       "event": {
         "month": 6,
@@ -221,7 +233,7 @@
       "locations": [
         "都市"
       ],
-      "description": "ハイコントラストでドラマチック\r\n画面構成が綺麗にできればTikTokで目に留まる可能性有。",
+      "description": "ハイコントラストでドラマチック\n画面構成が綺麗にできればTikTokで目に留まる可能性有。",
       "available": true
     },
     {
@@ -233,6 +245,7 @@
       "author": "Artistoid",
       "authorId": "usr_6a926e23-ce9c-468d-8d78-98223bd574ce",
       "season": "季節性なし",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -254,6 +267,7 @@
       "author": "オーゼンOzen",
       "authorId": "usr_b519ebb0-aa6a-44a4-9af4-0ffe46bb99cb",
       "season": "季節性なし",
+      "weather": "雨",
       "brightness": "暗",
       "event": {
         "month": 6,
@@ -262,7 +276,7 @@
       "locations": [
         "都市"
       ],
-      "description": "暗いが背景が白いので、ドラマチックな演出が可能\r\n雨の空気感がいい感じに表現されている。",
+      "description": "暗いが背景が白いので、ドラマチックな演出が可能\n雨の空気感がいい感じに表現されている。",
       "available": true
     },
     {
@@ -274,6 +288,7 @@
       "author": "Charlotte（シャル）",
       "authorId": "usr_d364cf3d-3e6b-4d51-adfd-9d66ce5bd6fa",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -282,7 +297,7 @@
       "locations": [
         "教会"
       ],
-      "description": "暗めだが、教会で神聖な雰囲気が出せる\r\nレベル補正を上げたり等して画面が調整できればいい感じ",
+      "description": "暗めだが、教会で神聖な雰囲気が出せる\nレベル補正を上げたり等して画面が調整できればいい感じ",
       "available": true
     },
     {
@@ -294,6 +309,7 @@
       "author": "ঌ٭がみてゃ٭໒",
       "authorId": "usr_86f4363c-84e4-45fe-9c4f-97356aafda96",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 7,
@@ -302,7 +318,7 @@
       "locations": [
         "神社/和風"
       ],
-      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\r\n夏にはいい感じの花火と雰囲気。ブルームとレベル補正要調整の事",
+      "description": "アバターの明るさ調整ギミック必須：Light Limit Changer\n夏にはいい感じの花火と雰囲気。ブルームとレベル補正要調整の事",
       "available": true
     },
     {
@@ -314,6 +330,7 @@
       "author": "Apathy",
       "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -334,6 +351,7 @@
       "author": "Apathy",
       "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -354,6 +372,7 @@
       "author": "Apathy",
       "authorId": "usr_9dab3cce-1110-4c28-847b-533bcbc0a8f1",
       "season": "春",
+      "weather": "雨",
       "brightness": "中間",
       "event": {
         "month": 6,
@@ -375,6 +394,7 @@
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 4,
@@ -384,7 +404,7 @@
         "神社/和風",
         "田舎（日本）"
       ],
-      "description": "明るさが動的に少しだけ変化するので、そこは注意が必要。\r\n綺麗な桜が咲いてる。",
+      "description": "明るさが動的に少しだけ変化するので、そこは注意が必要。\n綺麗な桜が咲いてる。",
       "available": true
     },
     {
@@ -396,6 +416,7 @@
       "author": "RootGentle",
       "authorId": "usr_41b1d197-bdc8-442f-8f8a-5b2adc3fa973",
       "season": "季節により変化",
+      "weather": "季節により変化",
       "brightness": "季節により変化",
       "event": {
         "month": 1,
@@ -405,7 +426,7 @@
         "神社/和風",
         "田舎（日本）"
       ],
-      "description": "現実の季節と連動して、季節が変化する。\r\n非常に綺麗な日本の神社",
+      "description": "現実の季節と連動して、季節が変化する。\n非常に綺麗な日本の神社",
       "available": true
     },
     {
@@ -417,6 +438,7 @@
       "author": "しーの／T_Shiino",
       "authorId": "usr_432d05bf-05ca-4685-9332-87fd7b054e63",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -425,7 +447,7 @@
       "locations": [
         "海"
       ],
-      "description": "辺り一面が海の場所に、ポツンと小島がある。真夏の空。\r\n青空の絵作りができる。",
+      "description": "辺り一面が海の場所に、ポツンと小島がある。真夏の空。\n青空の絵作りができる。",
       "available": true
     },
     {
@@ -437,6 +459,7 @@
       "author": "しーの／T_Shiino",
       "authorId": "usr_432d05bf-05ca-4685-9332-87fd7b054e63",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -445,7 +468,7 @@
       "locations": [
         "海"
       ],
-      "description": "辺り一面が海の場所に、ポツンと小島がある。\r\n真夏というより、爽やかな空。",
+      "description": "辺り一面が海の場所に、ポツンと小島がある。\n真夏というより、爽やかな空。",
       "available": true
     },
     {
@@ -457,6 +480,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -477,6 +501,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -497,6 +522,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "季節性なし",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -518,6 +544,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -540,6 +567,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -549,7 +577,7 @@
         "神社/和風",
         "川/湖"
       ],
-      "description": "環境は暗いけどアバターは明るく映る。\r\n鳥居と滝のある水辺",
+      "description": "環境は暗いけどアバターは明るく映る。\n鳥居と滝のある水辺",
       "available": true
     },
     {
@@ -561,6 +589,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "春",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -570,7 +599,7 @@
         "荒廃した世界",
         "田舎（日本）"
       ],
-      "description": "環境は暗いけどアバターは明るく映る。\r\n川の周りに和風建築の建物。",
+      "description": "環境は暗いけどアバターは明るく映る。\n川の周りに和風建築の建物。",
       "available": true
     },
     {
@@ -582,6 +611,7 @@
       "author": "_Harim",
       "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
       "season": "季節性なし",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -590,7 +620,7 @@
       "locations": [
         "田舎（日本）"
       ],
-      "description": "環境は暗いけどアバターは明るく映る。\r\n一本道の街道。光が綺麗で映える。",
+      "description": "環境は暗いけどアバターは明るく映る。\n一本道の街道。光が綺麗で映える。",
       "available": true
     },
     {
@@ -602,6 +632,7 @@
       "author": "HeyItsAnjello",
       "authorId": "usr_a179c393-bea0-4aef-83a8-52880b9d37a8",
       "season": "季節性なし",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -622,6 +653,7 @@
       "author": "별 보기",
       "authorId": "usr_d1cc28d9-da61-4404-8d05-7a89aa3fac78",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -643,6 +675,7 @@
       "author": "Lyn비",
       "authorId": "usr_8cb72eca-a3fb-45a8-bc51-368a19f12695",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -663,6 +696,7 @@
       "author": "mackerel_misogi",
       "authorId": "usr_54638756-aed6-4045-b9a9-1f7b6471ef11",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -684,6 +718,7 @@
       "author": "vsp_vrc",
       "authorId": "usr_0693607b-5305-4540-93dd-60fd726d800a",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -693,7 +728,7 @@
         "宇宙",
         "展示"
       ],
-      "description": "宇宙関連の博物館。\r\n回る配信とか試してみる価値あり？",
+      "description": "宇宙関連の博物館。\n回る配信とか試してみる価値あり？",
       "available": true
     },
     {
@@ -705,6 +740,7 @@
       "author": "おおかみちゃん",
       "authorId": "usr_b260cc63-826d-4bde-851b-84a144031945",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -714,7 +750,7 @@
         "展示",
         "便利機能"
       ],
-      "description": "アバターが展示されています。試着も可能です。\r\nVRChatをはじめたらまずはここに行きましょう。",
+      "description": "アバターが展示されています。試着も可能です。\nVRChatをはじめたらまずはここに行きましょう。",
       "available": true
     },
     {
@@ -726,6 +762,7 @@
       "author": "MetaCreatorsTYO",
       "authorId": "usr_c4929634-1f22-48dc-975e-3a8e70255005",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -746,6 +783,7 @@
       "author": "bd_",
       "authorId": "usr_42456991-8f37-4782-8f65-a6ff65a38995",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -766,6 +804,7 @@
       "author": "元气克星花阳",
       "authorId": "usr_16f31e4d-519a-4e68-91ad-d7ded4656348",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 0,
@@ -775,7 +814,7 @@
         "駅",
         "海"
       ],
-      "description": "綺麗な波打つ海の上にある駅。\r\n空中を魚が泳いでる。電車、スイカ、木々などがある。",
+      "description": "綺麗な波打つ海の上にある駅。\n空中を魚が泳いでる。電車、スイカ、木々などがある。",
       "available": true
     },
     {
@@ -787,6 +826,7 @@
       "author": "LumenNox",
       "authorId": "usr_ad5862a5-6453-425c-8943-9b6d9e904d6d",
       "season": "季節性なし",
+      "weather": "晴れ",
       "brightness": "暗",
       "event": {
         "month": 0,
@@ -795,7 +835,7 @@
       "locations": [
         "ライブステージ"
       ],
-      "description": "【注意】アバターの明るさが変更できないと画面が真っ暗になります。\r\nアバターの明るさ調整ギミック必須：Light Limit Changer",
+      "description": "【注意】アバターの明るさが変更できないと画面が真っ暗になります。\nアバターの明るさ調整ギミック必須：Light Limit Changer",
       "available": true
     },
     {
@@ -807,6 +847,7 @@
       "author": "海野ちくわ",
       "authorId": "usr_45ad6256-25a9-470f-9ce5-b58537c0b887",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "ライト操作 可",
       "event": {
         "month": 0,
@@ -816,7 +857,7 @@
         "ライブステージ",
         "部屋/住居"
       ],
-      "description": "THE FIRST TAKE風のワールド\r\n歌配信やショート動画に向いてる",
+      "description": "THE FIRST TAKE風のワールド\n歌配信やショート動画に向いてる",
       "available": true
     },
     {
@@ -828,6 +869,7 @@
       "author": "AdHoc_owner",
       "authorId": "usr_2b25378b-6e67-4fec-b251-b52393c7962a",
       "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
       "brightness": "中間",
       "event": {
         "month": 0,
@@ -836,7 +878,7 @@
       "locations": [
         "部屋/住居"
       ],
-      "description": "配信者向けのワールドというコンセプト\r\nアバターの明るさ調整ギミック推奨：Light Limit Changer",
+      "description": "配信者向けのワールドというコンセプト\nアバターの明るさ調整ギミック推奨：Light Limit Changer",
       "available": true
     },
     {
@@ -848,6 +890,7 @@
       "author": "Nekoro",
       "authorId": "usr_d4341620-5742-4b2d-92bb-8ffcc4312de7",
       "season": "夏",
+      "weather": "晴れ",
       "brightness": "明",
       "event": {
         "month": 8,
@@ -857,7 +900,219 @@
         "海",
         "プール"
       ],
-      "description": "プールを青い空が映えるワールド\r\nワールドの設定をいじれる機能付き",
+      "description": "プールを青い空が映えるワールド\nワールドの設定をいじれる機能付き",
+      "available": true
+    },
+    {
+      "id": "wrld_255f39b7-f5e0-41cf-a5c9-07e5d631ece4",
+      "name": "マグロ屋敷",
+      "url": "https://vrchat.com/home/world/wrld_255f39b7-f5e0-41cf-a5c9-07e5d631ece4",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_3b3bb1b6-281a-4e82-afa0-ed07ebca335f/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_3b3bb1b6-281a-4e82-afa0-ed07ebca335f/2/file",
+      "author": "Coicoi0055",
+      "authorId": "usr_ff8455a4-8001-4b30-9026-c8e1be685fe7",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "ギャグ寄りな演出\nプレイ時間目安：１時間前後",
+      "available": true
+    },
+    {
+      "id": "wrld_38098630-65a4-4789-855e-1c7fe2f32520",
+      "name": "マグロ屋敷2 MAGUROHaunted house2",
+      "url": "https://vrchat.com/home/world/wrld_38098630-65a4-4789-855e-1c7fe2f32520",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_1ca2943e-b109-431f-a84a-7ad426d58792/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_1ca2943e-b109-431f-a84a-7ad426d58792/1/file",
+      "author": "Coicoi0055",
+      "authorId": "usr_ff8455a4-8001-4b30-9026-c8e1be685fe7",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "ホラー寄りな演出\nプレイ時間目安：不明",
+      "available": true
+    },
+    {
+      "id": "wrld_54d74b4d-a582-4306-9024-94da717659bc",
+      "name": "Sad Amelia",
+      "url": "https://vrchat.com/home/world/wrld_54d74b4d-a582-4306-9024-94da717659bc",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_bfffa426-59d3-437d-8dd3-5f0de1316432/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_bfffa426-59d3-437d-8dd3-5f0de1316432/1/file",
+      "author": "Officialsayon",
+      "authorId": "usr_bd98be57-660f-421a-a5c9-3de85c6bda46",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "プレイ時間目安：１時間\n王道の逃げホラワ。ジャンプスケアいっぱいの海外製なので英語読めた方がおもろい。",
+      "available": true
+    },
+    {
+      "id": "wrld_1ef8aa55-5469-4866-b8db-8032c33baa24",
+      "name": "星島工業工場見学",
+      "url": "https://vrchat.com/home/world/wrld_1ef8aa55-5469-4866-b8db-8032c33baa24",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_ab9d78cd-f11b-4fba-87e4-52f032545ceb/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_ab9d78cd-f11b-4fba-87e4-52f032545ceb/2/file",
+      "author": "YM［ワイエム］",
+      "authorId": "usr_ccee440e-c9ec-4052-8ba5-5eeb908fbc66",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "プレイ時間目安：１時間\n工場見学系のワールド。最初から怖いわけじゃないけど、終わった時に感じる後味の悪さが個人的なおすすめ。自殺表現ないけど、死ぬ描写はある。",
+      "available": true
+    },
+    {
+      "id": "wrld_8e0c918e-b8bb-4718-bec2-b7f7aece0fc2",
+      "name": "Stalker",
+      "url": "https://vrchat.com/home/world/wrld_8e0c918e-b8bb-4718-bec2-b7f7aece0fc2",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_c4092ed5-5f8a-4bc1-9754-7c8c27a45621/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_c4092ed5-5f8a-4bc1-9754-7c8c27a45621/1/file",
+      "author": "BLG18",
+      "authorId": "usr_a3683c1e-7220-475c-8c61-153383c2529f",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "プレイ時間目安：３０分\nジャンプスケアいっぱいの海外製ホラワ。英語読めた方がいいです。自殺表現無し。",
+      "available": true
+    },
+    {
+      "id": "wrld_b606cba5-f90a-4d71-af61-94623113e01e",
+      "name": "Beyond Darkness ［Horror］",
+      "url": "https://vrchat.com/home/world/wrld_b606cba5-f90a-4d71-af61-94623113e01e",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_92af43a1-52ed-4756-a567-954ec98c89fb/5/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_92af43a1-52ed-4756-a567-954ec98c89fb/5/file",
+      "author": "Pappekönig",
+      "authorId": "usr_03aae2d9-7ef1-4f66-a074-dd5ab7336b34",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "プレイ時間目安：１時間～２時間\nジャンプスケア、迷路、ガンシューティング！？",
+      "available": true
+    },
+    {
+      "id": "wrld_9d95e56c-c041-4e13-b030-1cde04405658",
+      "name": "Oblimemoria",
+      "url": "https://vrchat.com/home/world/wrld_9d95e56c-c041-4e13-b030-1cde04405658",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_59b04d92-92fd-43b8-9904-7f81308e58f6/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_59b04d92-92fd-43b8-9904-7f81308e58f6/1/file",
+      "author": "ひなの。",
+      "authorId": "usr_b57a5ca9-7581-4479-b1db-719905ee9937",
+      "season": "季節性なし",
+      "weather": "雨",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "水族館"
+      ],
+      "description": "曇りの日とかに向いてそう",
+      "available": true
+    },
+    {
+      "id": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+      "name": "Aquarius",
+      "url": "https://vrchat.com/home/world/wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_bac6102a-ebd2-4bf2-a1b0-0510a2c8d9bd/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_bac6102a-ebd2-4bf2-a1b0-0510a2c8d9bd/3/file",
+      "author": "Fins",
+      "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "水族館"
+      ],
+      "description": "綺麗でほどほどに明るい",
+      "available": true
+    },
+    {
+      "id": "wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22",
+      "name": "Sushi Aquarium 淡水棟",
+      "url": "https://vrchat.com/home/world/wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_2499a487-ec46-49d0-af5b-3c2e2cddf06e/4/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_2499a487-ec46-49d0-af5b-3c2e2cddf06e/4/file",
+      "author": "long-potato",
+      "authorId": "usr_447f2129-d889-451d-84e5-6af402a0ad90",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "水族館",
+        "展示"
+      ],
+      "description": "映像というより、博物館寄りな水族館\n見て回るの面白いっていう切り口のワールド",
+      "available": true
+    },
+    {
+      "id": "wrld_ea519d64-1ae6-4d52-b06f-9cc4c3d8f320",
+      "name": "Nemuarium（水族館）",
+      "url": "https://vrchat.com/home/world/wrld_ea519d64-1ae6-4d52-b06f-9cc4c3d8f320",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_a45c271a-9213-4b42-a7fc-744606bf2b53/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_a45c271a-9213-4b42-a7fc-744606bf2b53/1/file",
+      "author": "nemutchi",
+      "authorId": "usr_4c44696f-42d6-4808-9225-6048eb69c6c4",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "水族館",
+        "展示"
+      ],
+      "description": "映像というより、博物館寄りな水族館\n暗いので明るさの調整注意。飽きづらいChillとしていいワールド",
       "available": true
     }
   ]
