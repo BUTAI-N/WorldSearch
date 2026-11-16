@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T00:31:01.733Z",
+  "generatedAt": "2026-11-16T00:44:25.728Z",
   "count": 52,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
       "name": "Avatar Testing Chamber",
       "url": "https://vrchat.com/home/world/wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
-      "thumb": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/256",
-      "image": "https://api.vrchat.cloud/api/1/file/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/file",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/15/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/15/file",
       "author": "Ziggor",
       "authorId": "usr_d37acd76-341a-46af-9b0e-d5b0ffa2181d",
       "season": "季節性なし",
