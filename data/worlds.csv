@@ -1,7 +1,6 @@
 ワールド名,URL（インバイト）,季節,天候,明るさ,行事イベント,ロケーション,説明,推薦者
-"Avatar Testing Chamber",https://vrchat.com/home/world/wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9/info,季節性なし,天候性なし（室内等）,ライト操作 可,0 関連なし,"部屋/住居, 便利機能",アバターの確認に最適 / 改変の確認,
-春空の休息地 -BloomingSky Rest-,https://vrchat.com/home/launch?worldId=wrld_84f03063-6013-43f6-a827-995a512a617e/info,春,晴れ,ライト操作 可,4 お花見,公園,"画面全体がピンクにできる。
-桜。",
+"Avatar Testing Chamber",https://vrchat.com/home/world/wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9/info,季節性なし,天候性なし（室内等）,ライト操作 可,0 関連なし,"部屋/住居, 便利機能",アバターの確認に最適,
+春空の休息地 -BloomingSky Rest-,https://vrchat.com/home/launch?worldId=wrld_84f03063-6013-43f6-a827-995a512a617e/info,春,晴れ,ライト操作 可,4 お花見,公園,画面全体をピンクにできる。,
 神穣小学校 shinjo-es,https://vrchat.com/home/launch?worldId=wrld_38ee1c16-3109-4ec2-a883-9338c9654e01/info,春,晴れ,明,0 関連なし,学校,"学校の教室
 少し明るめなので、レベル補正とブルームを要調整",
 Gion Street - 祇園通り日本 ,https://vrchat.com/home/launch?worldId=wrld_d048292b-42ad-4204-9372-0103d9a46f71/info,春,晴れ,明,0 関連なし,"神社/和風, 田舎（日本）","アバターの明るさ調整ギミック必須：Light Limit Changer
@@ -76,7 +75,25 @@ Beyond Darkness ［Horror］,https://vrchat.com/home/launch?worldId=wrld_b606cba
 ジャンプスケア、迷路、ガンシューティング！？",
 Oblimemoria,https://vrchat.com/home/world/wrld_9d95e56c-c041-4e13-b030-1cde04405658/info,季節性なし,雨,中間,0 関連なし,水族館,曇りの日とかに向いてそう,
 Aquarius,https://vrchat.com/home/world/wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6,季節性なし,天候性なし（室内等）,中間,0 関連なし,水族館,綺麗でほどほどに明るい,
-Sushi Aquarium 淡水棟,https://vrchat.com/home/world/wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22,季節性なし,天候性なし（室内等）,中間,0 関連なし,"水族館, 展示","映像というより、博物館寄りな水族館
+Sushi Aquarium 淡水棟,https://vrchat.com/home/world/wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22,季節性なし,天候性なし（室内等）,中間,0 関連なし,"水族館, 展示","博物館寄りな水族館
 見て回るの面白いっていう切り口のワールド",
-Nemuarium（水族館）,https://vrchat.com/home/world/wrld_ea519d64-1ae6-4d52-b06f-9cc4c3d8f320,季節性なし,天候性なし（室内等）,中間,0 関連なし,"水族館, 展示","映像というより、博物館寄りな水族館
+Nemuarium（水族館）,https://vrchat.com/home/world/wrld_ea519d64-1ae6-4d52-b06f-9cc4c3d8f320,季節性なし,天候性なし（室内等）,中間,0 関連なし,"水族館, 展示","博物館寄りな水族館
 暗いので明るさの調整注意。飽きづらいChillとしていいワールド",
+Next Station ⁄ 次の駅,https://vrchat.com/home/launch?worldId=wrld_53630b6e-2a56-4e06-a5e1-42ae8a554ffb,春,晴れ,明,0 関連なし,草原,朝配信に向いている。障害物など少ない。,
+"雪夢島 -Snow Reverie Island-",https://vrchat.com/home/world/wrld_3bfa6430-1536-45e6-a8ef-062b488aefab,冬,晴れ,中間,12 クリスマス,都市,明るさの調整注意,
+Charlotte's Snowdrop Island,https://vrchat.com/home/world/wrld_34331009-a514-46bb-b264-9ba0f0d18276,冬,晴れ,中間,12 クリスマス,都市,明るさの調整注意,
+"Istoria",https://vrchat.com/home/world/wrld_fa29bf75-5bb5-4ee9-8068-3d04d41cda6e,冬,晴れ,明,12 クリスマス,都市,奥の方まで進まないといけないので、準備注意,
+Vestigia Orbis,https://vrchat.com/home/launch?worldId=wrld_4a2c1bb2-a65e-4562-b4af-1aa053b8cf5d,季節性なし,天候性なし（室内等）,明,0 関連なし,リミナルスペース系統,"不思議な空間が広がっている
+デスクトップ配信向け",
+"Christmas town",https://vrchat.com/home/world/wrld_497dfab7-1bd7-4863-99e4-596f5495a2cd,冬,晴れ,明,12 クリスマス,都市,明るい街並み,
+"The Hotel․",https://vrchat.com/home/world/wrld_bb8f58f5-f201-4d4d-a013-882944bcc4c6,季節性なし,天候性なし（室内等）,暗,0 関連なし,ホラーワールド,グラフィックが綺麗,
+"ー約束された街ー",https://vrchat.com/home/world/wrld_c8dca5de-02d0-4fc3-8cf4-267f6f27ddce,季節性なし,晴れ,中間,0 関連なし,都市,かっこいい都市,
+Lazarus Maintenance Corridors,https://vrchat.com/home/world/wrld_184d1116-2c71-4c72-a80f-019b02cffdca,季節性なし,天候性なし（室内等）,中間,0 関連なし,工場,デスクトップ配信で探索できる,
+"Animal Forest",https://vrchat.com/home/world/wrld_3405339c-cb91-4ca1-afc4-dcd67571034f,春,晴れ,明,0 関連なし,森,クヲリティの高い明るい森,
+TARTARUS,https://vrchat.com/home/world/wrld_63a3921b-4412-4858-ae96-d38a7edc95d0,季節性なし,天候性なし（室内等）,暗,0 関連なし,海,"デスクトップ配信で探索できる
+潜水艦",
+"Miller's Planet",https://vrchat.com/home/world/wrld_0c1b2fbd-3580-4992-a7db-8acf19b94297,季節性なし,晴れ,明,0 関連なし,"海, 荒廃した世界, 宇宙","インターステラーがモチーフ
+３分毎に津波が来るワールド",
+OmniWater - Interactive water,https://vrchat.com/home/world/wrld_09436523-ad76-4520-a339-34bf43ea2d1b,夏,晴れ,ライト操作 可,8 海/ビーチ,海,"時間が自由に調整できる砂浜
+水のインタラクションもよい",
+"UP ASMR",https://vrchat.com/home/world/wrld_c23e933e-ff89-41dc-8478-22de4c6bb6e0,季節性なし,天候性なし（室内等）,明,0 関連なし,ゲーム性あり,デスクトップ配信向け,
