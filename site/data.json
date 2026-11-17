@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T00:44:25.728Z",
-  "count": 52,
+  "generatedAt": "2026-11-17T04:49:00.666Z",
+  "count": 66,
   "worlds": [
     {
       "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
@@ -21,7 +21,7 @@
         "部屋/住居",
         "便利機能"
       ],
-      "description": "アバターの確認に最適 / 改変の確認",
+      "description": "アバターの確認に最適",
       "available": true
     },
     {
@@ -42,7 +42,7 @@
       "locations": [
         "公園"
       ],
-      "description": "画面全体がピンクにできる。\n桜。",
+      "description": "画面全体をピンクにできる。",
       "available": true
     },
     {
@@ -1090,7 +1090,7 @@
         "水族館",
         "展示"
       ],
-      "description": "映像というより、博物館寄りな水族館\n見て回るの面白いっていう切り口のワールド",
+      "description": "博物館寄りな水族館\n見て回るの面白いっていう切り口のワールド",
       "available": true
     },
     {
@@ -1112,7 +1112,303 @@
         "水族館",
         "展示"
       ],
-      "description": "映像というより、博物館寄りな水族館\n暗いので明るさの調整注意。飽きづらいChillとしていいワールド",
+      "description": "博物館寄りな水族館\n暗いので明るさの調整注意。飽きづらいChillとしていいワールド",
+      "available": true
+    },
+    {
+      "id": "wrld_53630b6e-2a56-4e06-a5e1-42ae8a554ffb",
+      "name": "Next Station ⁄ 次の駅",
+      "url": "https://vrchat.com/home/world/wrld_53630b6e-2a56-4e06-a5e1-42ae8a554ffb",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_7c46202d-cf70-411d-a88a-bb8373a2b522/12/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_7c46202d-cf70-411d-a88a-bb8373a2b522/12/file",
+      "author": "_Harim",
+      "authorId": "usr_d57a08f9-a3ac-4431-af8d-57bb432d0b10",
+      "season": "春",
+      "weather": "晴れ",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "草原"
+      ],
+      "description": "朝配信に向いている。障害物など少ない。",
+      "available": true
+    },
+    {
+      "id": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
+      "name": "雪夢島 -Snow Reverie Island-",
+      "url": "https://vrchat.com/home/world/wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_8219c0cd-3df7-48f4-9a0c-88e64174c6c8/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_8219c0cd-3df7-48f4-9a0c-88e64174c6c8/3/file",
+      "author": "Leiria_vrc",
+      "authorId": "usr_6a1ac5f1-0511-4e2a-a7e1-895a065b7349",
+      "season": "冬",
+      "weather": "晴れ",
+      "brightness": "中間",
+      "event": {
+        "month": 12,
+        "label": "クリスマス"
+      },
+      "locations": [
+        "都市"
+      ],
+      "description": "明るさの調整注意",
+      "available": true
+    },
+    {
+      "id": "wrld_34331009-a514-46bb-b264-9ba0f0d18276",
+      "name": "Charlotte's Snowdrop Island",
+      "url": "https://vrchat.com/home/world/wrld_34331009-a514-46bb-b264-9ba0f0d18276",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_4aae107f-feb6-48ec-bbc4-02f6e6039ec1/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_4aae107f-feb6-48ec-bbc4-02f6e6039ec1/2/file",
+      "author": "Charlotte（シャル）",
+      "authorId": "usr_d364cf3d-3e6b-4d51-adfd-9d66ce5bd6fa",
+      "season": "冬",
+      "weather": "晴れ",
+      "brightness": "中間",
+      "event": {
+        "month": 12,
+        "label": "クリスマス"
+      },
+      "locations": [
+        "都市"
+      ],
+      "description": "明るさの調整注意",
+      "available": true
+    },
+    {
+      "id": "wrld_fa29bf75-5bb5-4ee9-8068-3d04d41cda6e",
+      "name": "Istoria",
+      "url": "https://vrchat.com/home/world/wrld_fa29bf75-5bb5-4ee9-8068-3d04d41cda6e",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_ccde1b25-b41c-4512-8a8f-1b3b91df57e1/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_ccde1b25-b41c-4512-8a8f-1b3b91df57e1/3/file",
+      "author": "Fins",
+      "authorId": "usr_a8872176-3cd9-48e3-a402-46f1e15092a3",
+      "season": "冬",
+      "weather": "晴れ",
+      "brightness": "明",
+      "event": {
+        "month": 12,
+        "label": "クリスマス"
+      },
+      "locations": [
+        "都市"
+      ],
+      "description": "奥の方まで進まないといけないので、準備注意",
+      "available": true
+    },
+    {
+      "id": "wrld_4a2c1bb2-a65e-4562-b4af-1aa053b8cf5d",
+      "name": "Vestigia Orbis",
+      "url": "https://vrchat.com/home/world/wrld_4a2c1bb2-a65e-4562-b4af-1aa053b8cf5d",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_e0322c32-5d6a-4521-91f4-ab671e86b4c2/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_e0322c32-5d6a-4521-91f4-ab671e86b4c2/1/file",
+      "author": "ちゅーたな",
+      "authorId": "usr_7304bdb7-f057-4a30-8898-0ef635493b2f",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "リミナルスペース系統"
+      ],
+      "description": "不思議な空間が広がっている\nデスクトップ配信向け",
+      "available": true
+    },
+    {
+      "id": "wrld_497dfab7-1bd7-4863-99e4-596f5495a2cd",
+      "name": "Christmas town",
+      "url": "https://vrchat.com/home/world/wrld_497dfab7-1bd7-4863-99e4-596f5495a2cd",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_b3f1e1ae-57a5-431e-ae2d-6312ccc9a4e3/7/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_b3f1e1ae-57a5-431e-ae2d-6312ccc9a4e3/7/file",
+      "author": "oりんごあめo",
+      "authorId": "usr_d27ee7e6-939d-4fe4-8b05-a7c7f9d0a71a",
+      "season": "冬",
+      "weather": "晴れ",
+      "brightness": "明",
+      "event": {
+        "month": 12,
+        "label": "クリスマス"
+      },
+      "locations": [
+        "都市"
+      ],
+      "description": "明るい街並み",
+      "available": true
+    },
+    {
+      "id": "wrld_bb8f58f5-f201-4d4d-a013-882944bcc4c6",
+      "name": "The Hotel․",
+      "url": "https://vrchat.com/home/world/wrld_bb8f58f5-f201-4d4d-a013-882944bcc4c6",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_b084d833-b8e0-4d5c-a2e8-5119d33b36bf/4/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_b084d833-b8e0-4d5c-a2e8-5119d33b36bf/4/file",
+      "author": "Obsihill",
+      "authorId": "usr_5ce41eba-bad3-4321-b492-1db3f82e9a03",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ホラーワールド"
+      ],
+      "description": "グラフィックが綺麗",
+      "available": true
+    },
+    {
+      "id": "wrld_c8dca5de-02d0-4fc3-8cf4-267f6f27ddce",
+      "name": "ー約束された街ー",
+      "url": "https://vrchat.com/home/world/wrld_c8dca5de-02d0-4fc3-8cf4-267f6f27ddce",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_afd1d900-b104-4eec-b8c0-56bd9e0891b2/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_afd1d900-b104-4eec-b8c0-56bd9e0891b2/2/file",
+      "author": "HAKUSEKIREI（怜）",
+      "authorId": "usr_4830a7f5-64d4-44d0-833e-c1be48cd8053",
+      "season": "季節性なし",
+      "weather": "晴れ",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "都市"
+      ],
+      "description": "かっこいい都市",
+      "available": true
+    },
+    {
+      "id": "wrld_184d1116-2c71-4c72-a80f-019b02cffdca",
+      "name": "Lazarus Maintenance Corridors",
+      "url": "https://vrchat.com/home/world/wrld_184d1116-2c71-4c72-a80f-019b02cffdca",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_2fca79e6-cef8-4fdd-a5dc-71b5e16f80bc/1/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_2fca79e6-cef8-4fdd-a5dc-71b5e16f80bc/1/file",
+      "author": "TheArchie",
+      "authorId": "usr_48d7a485-6e6f-4e42-90a0-0fc370e94fd0",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "中間",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "工場"
+      ],
+      "description": "デスクトップ配信で探索できる",
+      "available": true
+    },
+    {
+      "id": "wrld_3405339c-cb91-4ca1-afc4-dcd67571034f",
+      "name": "Animal Forest",
+      "url": "https://vrchat.com/home/world/wrld_3405339c-cb91-4ca1-afc4-dcd67571034f",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_45c12964-daab-424b-bde7-a372b5f4ca0b/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_45c12964-daab-424b-bde7-a372b5f4ca0b/2/file",
+      "author": "Coldcancer",
+      "authorId": "usr_eb5950ba-d427-422a-938c-a9236d3395a8",
+      "season": "春",
+      "weather": "晴れ",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "森"
+      ],
+      "description": "クヲリティの高い明るい森",
+      "available": true
+    },
+    {
+      "id": "wrld_63a3921b-4412-4858-ae96-d38a7edc95d0",
+      "name": "TARTARUS",
+      "url": "https://vrchat.com/home/world/wrld_63a3921b-4412-4858-ae96-d38a7edc95d0",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_82ca72eb-3664-4ac2-ba74-41d935b777fa/5/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_82ca72eb-3664-4ac2-ba74-41d935b777fa/5/file",
+      "author": "IO_san",
+      "authorId": "usr_932a2f5b-ed41-4645-8dd2-2b10c4db3c71",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "暗",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "海"
+      ],
+      "description": "デスクトップ配信で探索できる\n潜水艦",
+      "available": true
+    },
+    {
+      "id": "wrld_0c1b2fbd-3580-4992-a7db-8acf19b94297",
+      "name": "Miller's Planet",
+      "url": "https://vrchat.com/home/world/wrld_0c1b2fbd-3580-4992-a7db-8acf19b94297",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_53e209b4-234c-4fa7-af52-ea638132647e/4/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_53e209b4-234c-4fa7-af52-ea638132647e/4/file",
+      "author": "E ve_",
+      "authorId": "usr_085d5920-14cb-415c-a02c-e5ec0ddeb316",
+      "season": "季節性なし",
+      "weather": "晴れ",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "海",
+        "荒廃した世界",
+        "宇宙"
+      ],
+      "description": "インターステラーがモチーフ\n３分毎に津波が来るワールド",
+      "available": true
+    },
+    {
+      "id": "wrld_09436523-ad76-4520-a339-34bf43ea2d1b",
+      "name": "OmniWater - Interactive water",
+      "url": "https://vrchat.com/home/world/wrld_09436523-ad76-4520-a339-34bf43ea2d1b",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_b9044af2-bb7e-4f10-b6a0-d6f9cac87f09/3/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_b9044af2-bb7e-4f10-b6a0-d6f9cac87f09/3/file",
+      "author": "Rsea_るしぃ",
+      "authorId": "usr_fae735f6-136a-4187-ab02-2b099fd1e363",
+      "season": "夏",
+      "weather": "晴れ",
+      "brightness": "ライト操作 可",
+      "event": {
+        "month": 8,
+        "label": "海/ビーチ"
+      },
+      "locations": [
+        "海"
+      ],
+      "description": "時間が自由に調整できる砂浜\n水のインタラクションもよい",
+      "available": true
+    },
+    {
+      "id": "wrld_c23e933e-ff89-41dc-8478-22de4c6bb6e0",
+      "name": "UP ASMR",
+      "url": "https://vrchat.com/home/world/wrld_c23e933e-ff89-41dc-8478-22de4c6bb6e0",
+      "thumb": "https://api.vrchat.cloud/api/1/image/file_5af3c6b6-9229-4227-827f-9e3783f59c91/2/256",
+      "image": "https://api.vrchat.cloud/api/1/file/file_5af3c6b6-9229-4227-827f-9e3783f59c91/2/file",
+      "author": "Ectique",
+      "authorId": "usr_dadf89bc-a180-433d-befe-aec2ecefaf10",
+      "season": "季節性なし",
+      "weather": "天候性なし（室内等）",
+      "brightness": "明",
+      "event": {
+        "month": 0,
+        "label": "関連なし"
+      },
+      "locations": [
+        "ゲーム性あり"
+      ],
+      "description": "デスクトップ配信向け",
       "available": true
     }
   ]
